@@ -39,7 +39,7 @@ sudo systemctl enable --now docker nginx
 ### 2. Clone and start the app
 
 ```bash
-git clone <your-repo-url> mern-app
+git clone https://github.com/Fall2026-Classes/cop4331-mern-web.git mern-app
 cd mern-app
 sudo docker compose up --build -d
 ```
