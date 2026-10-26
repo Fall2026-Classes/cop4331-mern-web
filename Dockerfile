@@ -2,7 +2,7 @@
 FROM node:20-alpine AS frontend-builder
 WORKDIR /app/client
 COPY client/package*.json ./
-RUN npm ci
+RUN npm install
 COPY client/ ./
 RUN npm run build
 
@@ -12,7 +12,7 @@ WORKDIR /app
 
 # Install Express dependencies
 COPY server/package*.json ./server/
-RUN cd server && npm ci --only=production
+RUN cd server && npm install --omit=dev
 
 # Copy express backend source code
 COPY server/ ./server/
