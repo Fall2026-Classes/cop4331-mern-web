@@ -1,0 +1,29 @@
+version: '3.8'
+
+services:
+  mern-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: mern_monorepo_container
+    restart: unless-stopped
+    ports:
+      - "5000:5000"
+    environment:
+      - PORT=5000
+      - NODE_ENV=production
+      - MONGO_URI=mongodb://mongodb_service:27017/mydatabase
+    depends_on:
+      - mongodb_service
+
+  mongodb_service:
+    image: mongo:latest
+    container_name: mern_mongodb_container
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    volumes:
+      - mern_db_data:/data/db
+
+volumes:
+  mern_db_data:
