@@ -1,16 +1,36 @@
 const express = require('express');
-const mongoose = require('mongoose');
+const http = require('http');
 const path = require('path');
 
 const app = express();
 const PORT = process.env.PORT || 5000;
-const MONGO_URI = process.env.MONGO_URI || 'mongodb://localhost:27017/mydatabase';
+// The movie-reviews API (cop4331-mern-backend). Every /api request is forwarded to it.
+const API_URL = new URL(process.env.API_URL || 'http://localhost:5001');
 
-app.use(express.json());
+// Health check for this web server itself.
+app.get('/health', (req, res) => {
+  res.json({ status: 'Web server is running', api: API_URL.origin });
+});
 
-// Sample API Route
-app.get('/api/health', (req, res) => {
-  res.json({ status: 'API is running perfectly!', database: mongoose.connection.readyState === 1 ? 'Connected' : 'Disconnected' });
+// Forward /api/* (method, headers, body) to the API and stream the answer back.
+app.use('/api', (req, res) => {
+  const upstream = http.request(
+    {
+      hostname: API_URL.hostname,
+      port: API_URL.port || 80,
+      path: req.originalUrl,
+      method: req.method,
+      headers: { ...req.headers, host: API_URL.host },
+    },
+    (apiRes) => {
+      res.writeHead(apiRes.statusCode, apiRes.headers);
+      apiRes.pipe(res);
+    }
+  );
+  upstream.on('error', () => {
+    if (!res.headersSent) res.status(502).json({ error: 'API is not reachable' });
+  });
+  req.pipe(upstream);
 });
 
 // Serve compiled React frontend files in production
@@ -22,14 +42,4 @@ app.get('*', (req, res) => {
   res.sendFile(path.resolve(clientBuildPath, 'index.html'));
 });
 
-// Connect to MongoDB container service and start Express server
-mongoose.connect(MONGO_URI)
-  .then(() => {
-    console.log('MongoDB connected successfully.');
-    app.listen(PORT, () => console.log(`Server listening on port ${PORT}`));
-  })
-  .catch(err => {
-    console.error('Database connection error:', err);
-    // Still run the server even if DB fails initially so Nginx doesn't crash on bad proxy pass
-    app.listen(PORT, () => console.log(`Server running on port ${PORT} (No DB connection)`));
-  });
+app.listen(PORT, () => console.log(`Server listening on port ${PORT}, API at ${API_URL.origin}`));

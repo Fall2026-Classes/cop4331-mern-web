@@ -1,6 +1,9 @@
 # MERN Monorepo
 
-A MERN stack app where the React frontend and Express API run together in a single Docker container.
+A MERN stack app. The React frontend is served by a small Express server, which forwards every `/api/*`
+request to the movie-reviews API ([cop4331-mern-backend](https://github.com/Fall2026-Classes/cop4331-mern-backend)).
+`docker compose` builds that API straight from its GitHub repo and runs it next to MongoDB.
+To build the API from a local checkout instead, set `API_REPO=../cop4331-mern-backend`.
 
 - Dev: http://localhost:5000
 - Prod: https://mern.fire-line.tech
