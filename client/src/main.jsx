@@ -5,11 +5,11 @@ import Login from './pages/Login.jsx';
 import Register from './pages/Register.jsx';
 import LoginFailed from './pages/LoginFailed.jsx';
 import Diary from './pages/Diary.jsx';
-import { getUser } from './api.js';
+import { getToken } from './api.js';
 import './styles.css';
 
 function RequireLogin({ children }) {
-  return getUser() ? children : <Navigate to="/" replace />;
+  return getToken() ? children : <Navigate to="/" replace />;
 }
 
 function App() {

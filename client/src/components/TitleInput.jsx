@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { api } from '../api.js';
+import { searchCatalog } from '../catalog.js';
 
 // Title box that suggests matching titles from the archive of top movies and shows.
 // Picking one fills in the title, year and type. Typing your own title still works.
@@ -15,8 +15,8 @@ export default function TitleInput({ value, type, onChange, onPick }) {
     const q = value.trim();
     if (q.length < 2) { setResults([]); return; }
     const timer = setTimeout(() => {
-      api(`/catalog?q=${encodeURIComponent(q)}`)
-        .then((data) => { setResults(data.results); setActive(-1); })
+      searchCatalog(q)
+        .then((found) => { setResults(found); setActive(-1); })
         .catch(() => setResults([]));
     }, 200);
     return () => clearTimeout(timer);

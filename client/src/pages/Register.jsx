@@ -19,8 +19,8 @@ export default function Register() {
     }
     setBusy(true);
     try {
-      const { login, password } = form;
-      await api('/users', { method: 'POST', body: { login: login.trim(), password } });
+      const { firstName, lastName, login, password } = form;
+      await api('/users', { method: 'POST', body: { firstName: firstName.trim(), lastName: lastName.trim(), login: login.trim(), password } });
       navigate('/', { state: { registered: true, login: login.trim() } });
     } catch (err) {
       setError(err.message);

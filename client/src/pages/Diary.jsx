@@ -4,6 +4,7 @@ import { api, getUser, logout } from '../api.js';
 import StarRating from '../components/StarRating.jsx';
 import Poster from '../components/Poster.jsx';
 import TitleInput from '../components/TitleInput.jsx';
+import { findPoster, loadCatalog } from '../catalog.js';
 
 const EMPTY = { title: '', type: 'movie', year: '', rating: 0, review: '', watchedOn: '' };
 
@@ -19,6 +20,34 @@ function formatDate(d) {
   if (!d) return '';
   // Dates are stored as midnight UTC; show them as that calendar day.
   return new Date(d).toLocaleDateString(undefined, { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
+}
+
+// The API stores a diary entry as a review: { movieTitle, description, ... }.
+// These two functions convert between that and the { title, review, ... } shape this page uses.
+function toEntry(r) {
+  const entry = {
+    _id: r._id,
+    title: r.movieTitle,
+    type: r.type || 'movie',
+    year: r.year ?? null,
+    rating: r.rating || 0,
+    review: r.description || '',
+    watchedOn: r.watchedOn || null,
+    createdAt: r.createdAt,
+  };
+  entry.posterUrl = findPoster(entry);
+  return entry;
+}
+
+function toReviewBody(f) {
+  return {
+    movieTitle: f.title.trim(),
+    type: f.type,
+    year: f.year === '' || f.year === null ? null : Number(f.year),
+    rating: Number(f.rating) || 0,
+    description: f.review.trim(),
+    watchedOn: f.watchedOn || null,
+  };
 }
 
 export default function Diary() {
@@ -46,8 +75,8 @@ export default function Diary() {
   }
 
   useEffect(() => {
-    api('/entries')
-      .then((data) => setEntries(data.entries))
+    Promise.all([api('/reviews'), loadCatalog().catch(() => null)])
+      .then(([reviews]) => setEntries(reviews.map(toEntry)))
       .catch(handleError)
       .finally(() => setLoading(false));
   }, []);
@@ -103,11 +132,12 @@ export default function Diary() {
     setError('');
     try {
       if (editingId) {
-        const { entry } = await api(`/entries/${editingId}`, { method: 'PUT', body: form });
+        const review = await api(`/reviews/${editingId}`, { method: 'PATCH', body: toReviewBody(form) });
+        const entry = toEntry(review);
         setEntries((list) => list.map((x) => (x._id === editingId ? entry : x)));
       } else {
-        const { entry } = await api('/entries', { method: 'POST', body: form });
-        setEntries((list) => [entry, ...list]);
+        const review = await api('/reviews', { method: 'POST', body: toReviewBody(form) });
+        setEntries((list) => [toEntry(review), ...list]);
       }
       closeForm();
     } catch (err) {
@@ -118,7 +148,7 @@ export default function Diary() {
   async function handleDelete(e) {
     if (!window.confirm(`Remove "${e.title}" from your diary?`)) return;
     try {
-      await api(`/entries/${e._id}`, { method: 'DELETE' });
+      await api(`/reviews/${e._id}`, { method: 'DELETE' });
       setEntries((list) => list.filter((x) => x._id !== e._id));
       if (editingId === e._id) closeForm();
     } catch (err) {
@@ -133,7 +163,7 @@ export default function Diary() {
       <header className="topbar">
         <div className="brand">Reel<span>Talk</span></div>
         <div className="topbar-right">
-          <span className="muted">{user ? `${user.firstName} ${user.lastName}` : ''}</span>
+          <span className="muted">{user ? ([user.firstName, user.lastName].filter(Boolean).join(' ') || user.login) : ''}</span>
           <button className="ghost" onClick={handleLogout}>Log out</button>
         </div>
       </header>
@@ -195,7 +225,7 @@ export default function Diary() {
               </div>
               <label>
                 Review
-                <textarea rows={3} value={form.review} onChange={update('review')} placeholder="What did you think?" maxLength={2000} />
+                <textarea rows={3} value={form.review} onChange={update('review')} placeholder="What did you think?" maxLength={2000} required />
               </label>
               <div className="form-buttons">
                 <button type="submit">{editingId ? 'Save changes' : 'Add to diary'}</button>
