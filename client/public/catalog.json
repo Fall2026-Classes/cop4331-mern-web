@@ -1,0 +1,3392 @@
+{
+ "source": "TMDB top rated (themoviedb.org)",
+ "builtAt": "2026-11-05T20:57:08.792Z",
+ "titles": [
+  {
+   "tmdbId": 1560520,
+   "type": "movie",
+   "rank": 1,
+   "title": "Batman: Knightfall Part 1: Knightfall",
+   "year": 2026,
+   "posterPath": "/360qdtu2hLnqMu8SVHMywn420w1.jpg"
+  },
+  {
+   "tmdbId": 980431,
+   "type": "movie",
+   "rank": 2,
+   "title": "Avatar Aang: The Last Airbender",
+   "year": 2026,
+   "posterPath": "/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg"
+  },
+  {
+   "tmdbId": 1007757,
+   "type": "movie",
+   "rank": 3,
+   "title": "Swapped",
+   "year": 2026,
+   "posterPath": "/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg"
+  },
+  {
+   "tmdbId": 1632181,
+   "type": "movie",
+   "rank": 4,
+   "title": "Accidental Partners",
+   "originalTitle": "Socias por accidente",
+   "year": 2026,
+   "posterPath": "/j0CIVzeR7hRAPBPGR54qDZoOQpp.jpg"
+  },
+  {
+   "tmdbId": 1311031,
+   "type": "movie",
+   "rank": 5,
+   "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+   "originalTitle": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+   "year": 2025,
+   "posterPath": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg"
+  },
+  {
+   "tmdbId": 1621552,
+   "type": "movie",
+   "rank": 6,
+   "title": "Facing El Chapo",
+   "originalTitle": "La captura",
+   "year": 2026,
+   "posterPath": "/alpf5v4UqSFawPmG9RX03Or4BDk.jpg"
+  },
+  {
+   "tmdbId": 278,
+   "type": "movie",
+   "rank": 7,
+   "title": "The Shawshank Redemption",
+   "year": 1994,
+   "posterPath": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg"
+  },
+  {
+   "tmdbId": 238,
+   "type": "movie",
+   "rank": 8,
+   "title": "The Godfather",
+   "year": 1972,
+   "posterPath": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg"
+  },
+  {
+   "tmdbId": 687163,
+   "type": "movie",
+   "rank": 9,
+   "title": "Project Hail Mary",
+   "year": 2026,
+   "posterPath": "/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg"
+  },
+  {
+   "tmdbId": 1232449,
+   "type": "movie",
+   "rank": 10,
+   "title": "Young Hearts",
+   "year": 2024,
+   "posterPath": "/iGCtYxfuvXfy0BD5m6p7vKuPOxS.jpg"
+  },
+  {
+   "tmdbId": 936075,
+   "type": "movie",
+   "rank": 11,
+   "title": "Michael",
+   "year": 2026,
+   "posterPath": "/dueFqKLvjftnELZaGYwY7xinfaI.jpg"
+  },
+  {
+   "tmdbId": 389,
+   "type": "movie",
+   "rank": 12,
+   "title": "12 Angry Men",
+   "year": 1957,
+   "posterPath": "/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg"
+  },
+  {
+   "tmdbId": 1630423,
+   "type": "movie",
+   "rank": 13,
+   "title": "My Dearest Assassin",
+   "originalTitle": "เลือดรักนักฆ่า",
+   "year": 2026,
+   "posterPath": "/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg"
+  },
+  {
+   "tmdbId": 240,
+   "type": "movie",
+   "rank": 14,
+   "title": "The Godfather Part II",
+   "year": 1974,
+   "posterPath": "/8a1lJs7mFyGhGhZZDT1azJUoQiZ.jpg"
+  },
+  {
+   "tmdbId": 424,
+   "type": "movie",
+   "rank": 15,
+   "title": "Schindler's List",
+   "year": 1993,
+   "posterPath": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg"
+  },
+  {
+   "tmdbId": 1218925,
+   "type": "movie",
+   "rank": 16,
+   "title": "Chainsaw Man - The Movie: Reze Arc",
+   "originalTitle": "劇場版 チェンソーマン レゼ篇",
+   "year": 2025,
+   "posterPath": "/i69jR67amezdJ3sx6OOvOGn7HAR.jpg"
+  },
+  {
+   "tmdbId": 155,
+   "type": "movie",
+   "rank": 17,
+   "title": "The Dark Knight",
+   "year": 2008,
+   "posterPath": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+  },
+  {
+   "tmdbId": 129,
+   "type": "movie",
+   "rank": 18,
+   "title": "Spirited Away",
+   "originalTitle": "千と千尋の神隠し",
+   "year": 2001,
+   "posterPath": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg"
+  },
+  {
+   "tmdbId": 122,
+   "type": "movie",
+   "rank": 19,
+   "title": "The Lord of the Rings: The Return of the King",
+   "year": 2003,
+   "posterPath": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg"
+  },
+  {
+   "tmdbId": 497,
+   "type": "movie",
+   "rank": 20,
+   "title": "The Green Mile",
+   "year": 1999,
+   "posterPath": "/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg"
+  },
+  {
+   "tmdbId": 19404,
+   "type": "movie",
+   "rank": 21,
+   "title": "Dilwale Dulhania Le Jayenge",
+   "originalTitle": "दिलवाले दुल्हनिया ले जायेंगे",
+   "year": 1995,
+   "posterPath": "/lfRkUr7DYdHldAqi3PwdQGBRBPM.jpg"
+  },
+  {
+   "tmdbId": 157336,
+   "type": "movie",
+   "rank": 22,
+   "title": "Interstellar",
+   "year": 2014,
+   "posterPath": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg"
+  },
+  {
+   "tmdbId": 372058,
+   "type": "movie",
+   "rank": 23,
+   "title": "Your Name.",
+   "originalTitle": "君の名は。",
+   "year": 2016,
+   "posterPath": "/vfJFJPepRKapMd5G2ro7klIRysq.jpg"
+  },
+  {
+   "tmdbId": 496243,
+   "type": "movie",
+   "rank": 24,
+   "title": "Parasite",
+   "originalTitle": "기생충",
+   "year": 2019,
+   "posterPath": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg"
+  },
+  {
+   "tmdbId": 969681,
+   "type": "movie",
+   "rank": 25,
+   "title": "Spider-Man: Brand New Day",
+   "year": 2026,
+   "posterPath": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
+  },
+  {
+   "tmdbId": 680,
+   "type": "movie",
+   "rank": 26,
+   "title": "Pulp Fiction",
+   "year": 1994,
+   "posterPath": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg"
+  },
+  {
+   "tmdbId": 14537,
+   "type": "movie",
+   "rank": 27,
+   "title": "Harakiri",
+   "originalTitle": "切腹",
+   "year": 1962,
+   "posterPath": "/5konZnIbcAxZjP616Cz5o9bKEfW.jpg"
+  },
+  {
+   "tmdbId": 429,
+   "type": "movie",
+   "rank": 28,
+   "title": "The Good, the Bad and the Ugly",
+   "originalTitle": "Il buono, il brutto, il cattivo",
+   "year": 1966,
+   "posterPath": "/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg"
+  },
+  {
+   "tmdbId": 667257,
+   "type": "movie",
+   "rank": 29,
+   "title": "Impossible Things",
+   "originalTitle": "Cosas imposibles",
+   "year": 2021,
+   "posterPath": "/t2Ew8NZ8Ci2kqmoecZUNQUFDJnQ.jpg"
+  },
+  {
+   "tmdbId": 13,
+   "type": "movie",
+   "rank": 30,
+   "title": "Forrest Gump",
+   "year": 1994,
+   "posterPath": "/saHP97rTPS5eLmrLQEcANmKrsFl.jpg"
+  },
+  {
+   "tmdbId": 769,
+   "type": "movie",
+   "rank": 31,
+   "title": "GoodFellas",
+   "year": 1990,
+   "posterPath": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg"
+  },
+  {
+   "tmdbId": 12477,
+   "type": "movie",
+   "rank": 32,
+   "title": "Grave of the Fireflies",
+   "originalTitle": "火垂るの墓",
+   "year": 1988,
+   "posterPath": "/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg"
+  },
+  {
+   "tmdbId": 346,
+   "type": "movie",
+   "rank": 33,
+   "title": "Seven Samurai",
+   "originalTitle": "七人の侍",
+   "year": 1954,
+   "posterPath": "/lOMGc8bnSwQhS4XyE1S99uH8NXf.jpg"
+  },
+  {
+   "tmdbId": 120,
+   "type": "movie",
+   "rank": 34,
+   "title": "The Lord of the Rings: The Fellowship of the Ring",
+   "year": 2001,
+   "posterPath": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
+  },
+  {
+   "tmdbId": 1181678,
+   "type": "movie",
+   "rank": 35,
+   "title": "¿Quieres ser mi hijo?",
+   "year": 2023,
+   "posterPath": "/6PQJsmuvSMZQMmlJfTpjIkrizUh.jpg"
+  },
+  {
+   "tmdbId": 550,
+   "type": "movie",
+   "rank": 36,
+   "title": "Fight Club",
+   "year": 1999,
+   "posterPath": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg"
+  },
+  {
+   "tmdbId": 637,
+   "type": "movie",
+   "rank": 37,
+   "title": "Life Is Beautiful",
+   "originalTitle": "La vita è bella",
+   "year": 1997,
+   "posterPath": "/74hLDKjD5aGYOotO6esUVaeISa2.jpg"
+  },
+  {
+   "tmdbId": 11216,
+   "type": "movie",
+   "rank": 38,
+   "title": "Cinema Paradiso",
+   "originalTitle": "Nuovo Cinema Paradiso",
+   "year": 1988,
+   "posterPath": "/aRgPnx4aPS96f7CnhJH7IG5dN1A.jpg"
+  },
+  {
+   "tmdbId": 121,
+   "type": "movie",
+   "rank": 39,
+   "title": "The Lord of the Rings: The Two Towers",
+   "year": 2002,
+   "posterPath": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg"
+  },
+  {
+   "tmdbId": 598,
+   "type": "movie",
+   "rank": 40,
+   "title": "City of God",
+   "originalTitle": "Cidade de Deus",
+   "year": 2002,
+   "posterPath": "/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg"
+  },
+  {
+   "tmdbId": 620249,
+   "type": "movie",
+   "rank": 41,
+   "title": "The Legend of Hei",
+   "originalTitle": "罗小黑战记",
+   "year": 2019,
+   "posterPath": "/nWdES36hGwADWWBGzvgT1Z3Xn86.jpg"
+  },
+  {
+   "tmdbId": 770156,
+   "type": "movie",
+   "rank": 42,
+   "title": "Lucy Shimmers and the Prince of Peace",
+   "year": 2020,
+   "posterPath": "/yfnJ5qIYx7q33fY4jqv9Pu95RSg.jpg"
+  },
+  {
+   "tmdbId": 324857,
+   "type": "movie",
+   "rank": 43,
+   "title": "Spider-Man: Into the Spider-Verse",
+   "year": 2018,
+   "posterPath": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
+  },
+  {
+   "tmdbId": 539,
+   "type": "movie",
+   "rank": 44,
+   "title": "Psycho",
+   "year": 1960,
+   "posterPath": "/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg"
+  },
+  {
+   "tmdbId": 510,
+   "type": "movie",
+   "rank": 45,
+   "title": "One Flew Over the Cuckoo's Nest",
+   "year": 1975,
+   "posterPath": "/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg"
+  },
+  {
+   "tmdbId": 40096,
+   "type": "movie",
+   "rank": 46,
+   "title": "A Dog's Will",
+   "originalTitle": "O Auto da Compadecida",
+   "year": 2000,
+   "posterPath": "/z9Au9XtK0ARzkKGsZCzMkmKgMPf.jpg"
+  },
+  {
+   "tmdbId": 255709,
+   "type": "movie",
+   "rank": 47,
+   "title": "Hope",
+   "originalTitle": "소원",
+   "year": 2013,
+   "posterPath": "/x9yjkm9gIz5qI5fJMUTfBnWiB2o.jpg"
+  },
+  {
+   "tmdbId": 378064,
+   "type": "movie",
+   "rank": 48,
+   "title": "A Silent Voice: The Movie",
+   "originalTitle": "映画 聲の形",
+   "year": 2016,
+   "posterPath": "/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg"
+  },
+  {
+   "tmdbId": 1891,
+   "type": "movie",
+   "rank": 49,
+   "title": "The Empire Strikes Back",
+   "year": 1980,
+   "posterPath": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg"
+  },
+  {
+   "tmdbId": 4935,
+   "type": "movie",
+   "rank": 50,
+   "title": "Howl's Moving Castle",
+   "originalTitle": "ハウルの動く城",
+   "year": 2004,
+   "posterPath": "/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg"
+  },
+  {
+   "tmdbId": 1383731,
+   "type": "movie",
+   "rank": 51,
+   "title": "Protector",
+   "year": 2026,
+   "posterPath": "/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg"
+  },
+  {
+   "tmdbId": 12493,
+   "type": "movie",
+   "rank": 52,
+   "title": "High and Low",
+   "originalTitle": "天国と地獄",
+   "year": 1963,
+   "posterPath": "/tgNjemQPG96uIezpiUiXFcer5ga.jpg"
+  },
+  {
+   "tmdbId": 807,
+   "type": "movie",
+   "rank": 53,
+   "title": "Se7en",
+   "year": 1995,
+   "posterPath": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg"
+  },
+  {
+   "tmdbId": 696374,
+   "type": "movie",
+   "rank": 54,
+   "title": "Gabriel's Inferno",
+   "year": 2020,
+   "posterPath": "/oyG9TL7FcRP4EZ9Vid6uKzwdndz.jpg"
+  },
+  {
+   "tmdbId": 244786,
+   "type": "movie",
+   "rank": 55,
+   "title": "Whiplash",
+   "year": 2014,
+   "posterPath": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg"
+  },
+  {
+   "tmdbId": 27205,
+   "type": "movie",
+   "rank": 56,
+   "title": "Inception",
+   "year": 2010,
+   "posterPath": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg"
+  },
+  {
+   "tmdbId": 423,
+   "type": "movie",
+   "rank": 57,
+   "title": "The Pianist",
+   "year": 2002,
+   "posterPath": "/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg"
+  },
+  {
+   "tmdbId": 311,
+   "type": "movie",
+   "rank": 58,
+   "title": "Once Upon a Time in America",
+   "year": 1984,
+   "posterPath": "/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg"
+  },
+  {
+   "tmdbId": 1419406,
+   "type": "movie",
+   "rank": 59,
+   "title": "The Shadow's Edge",
+   "originalTitle": "捕风追影",
+   "year": 2025,
+   "posterPath": "/cHKo3m8N1fwvEy2ZEr0xGmmMODV.jpg"
+  },
+  {
+   "tmdbId": 1330021,
+   "type": "movie",
+   "rank": 60,
+   "title": "Remarkably Bright Creatures",
+   "year": 2026,
+   "posterPath": "/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg"
+  },
+  {
+   "tmdbId": 569094,
+   "type": "movie",
+   "rank": 61,
+   "title": "Spider-Man: Across the Spider-Verse",
+   "year": 2023,
+   "posterPath": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
+  },
+  {
+   "tmdbId": 274,
+   "type": "movie",
+   "rank": 62,
+   "title": "The Silence of the Lambs",
+   "year": 1991,
+   "posterPath": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg"
+  },
+  {
+   "tmdbId": 1058694,
+   "type": "movie",
+   "rank": 63,
+   "title": "Radical",
+   "year": 2023,
+   "posterPath": "/lOAJYpX608aT0ApIv63ZTnol27Y.jpg"
+  },
+  {
+   "tmdbId": 724089,
+   "type": "movie",
+   "rank": 64,
+   "title": "Gabriel's Inferno: Part II",
+   "year": 2020,
+   "posterPath": "/x5o8cLZfEXMoZczTYWLrUo1P7UJ.jpg"
+  },
+  {
+   "tmdbId": 567,
+   "type": "movie",
+   "rank": 65,
+   "title": "Rear Window",
+   "year": 1954,
+   "posterPath": "/ILVF0eJxHMddjxeQhswFtpMtqx.jpg"
+  },
+  {
+   "tmdbId": 105,
+   "type": "movie",
+   "rank": 66,
+   "title": "Back to the Future",
+   "year": 1985,
+   "posterPath": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg"
+  },
+  {
+   "tmdbId": 761053,
+   "type": "movie",
+   "rank": 67,
+   "title": "Gabriel's Inferno: Part III",
+   "year": 2020,
+   "posterPath": "/fYtHxTxlhzD4QWfEbrC1rypysSD.jpg"
+  },
+  {
+   "tmdbId": 73,
+   "type": "movie",
+   "rank": 68,
+   "title": "American History X",
+   "year": 1998,
+   "posterPath": "/x2drgoXYZ8484lqyDj7L1CEVR4T.jpg"
+  },
+  {
+   "tmdbId": 128,
+   "type": "movie",
+   "rank": 69,
+   "title": "Princess Mononoke",
+   "originalTitle": "もののけ姫",
+   "year": 1997,
+   "posterPath": "/cMYCDADoLKLbB83g4WnJegaZimC.jpg"
+  },
+  {
+   "tmdbId": 3782,
+   "type": "movie",
+   "rank": 70,
+   "title": "Ikiru",
+   "originalTitle": "生きる",
+   "year": 1952,
+   "posterPath": "/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg"
+  },
+  {
+   "tmdbId": 1184918,
+   "type": "movie",
+   "rank": 71,
+   "title": "The Wild Robot",
+   "year": 2024,
+   "posterPath": "/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
+  },
+  {
+   "tmdbId": 533514,
+   "type": "movie",
+   "rank": 72,
+   "title": "Violet Evergarden: The Movie",
+   "originalTitle": "劇場版 ヴァイオレット・エヴァーガーデン",
+   "year": 2020,
+   "posterPath": "/bajajkoErDst0JxdFyBkABiF9rW.jpg"
+  },
+  {
+   "tmdbId": 1317149,
+   "type": "movie",
+   "rank": 73,
+   "title": "I Swear",
+   "year": 2025,
+   "posterPath": "/vUwyhNWBKkSwK8ELvEeBRwV724h.jpg"
+  },
+  {
+   "tmdbId": 372754,
+   "type": "movie",
+   "rank": 74,
+   "title": "Dou kyu sei – Classmates",
+   "originalTitle": "同級生",
+   "year": 2016,
+   "posterPath": "/cIfRCA5wEvj9tApca4UDUagQEiM.jpg"
+  },
+  {
+   "tmdbId": 10494,
+   "type": "movie",
+   "rank": 75,
+   "title": "Perfect Blue",
+   "originalTitle": "PERFECT BLUE",
+   "year": 1998,
+   "posterPath": "/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg"
+  },
+  {
+   "tmdbId": 207,
+   "type": "movie",
+   "rank": 76,
+   "title": "Dead Poets Society",
+   "year": 1989,
+   "posterPath": "/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg"
+  },
+  {
+   "tmdbId": 101,
+   "type": "movie",
+   "rank": 77,
+   "title": "Léon: The Professional",
+   "originalTitle": "Léon",
+   "year": 1994,
+   "posterPath": "/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg"
+  },
+  {
+   "tmdbId": 1377237,
+   "type": "movie",
+   "rank": 78,
+   "title": "Runner",
+   "year": 2026,
+   "posterPath": "/vJk2TW1QZAmBiD7oj9ZF9EPTYY1.jpg"
+  },
+  {
+   "tmdbId": 820067,
+   "type": "movie",
+   "rank": 79,
+   "title": "The Quintessential Quintuplets Movie",
+   "originalTitle": "映画 五等分の花嫁",
+   "year": 2022,
+   "posterPath": "/sg7klpt1xwK1IJirBI9EHaqQwJ5.jpg"
+  },
+  {
+   "tmdbId": 3082,
+   "type": "movie",
+   "rank": 80,
+   "title": "Modern Times",
+   "year": 1936,
+   "posterPath": "/AthaPakkuCLROdKxtRbKWclkDBK.jpg"
+  },
+  {
+   "tmdbId": 614945,
+   "type": "movie",
+   "rank": 81,
+   "title": "Voicemails for Isabelle",
+   "year": 2026,
+   "posterPath": "/canZTWSxACSnAluir3dCtMxKpA1.jpg"
+  },
+  {
+   "tmdbId": 914,
+   "type": "movie",
+   "rank": 82,
+   "title": "The Great Dictator",
+   "year": 1940,
+   "posterPath": "/nhMXB8GTdswYMCL9nepDZymJCOr.jpg"
+  },
+  {
+   "tmdbId": 42269,
+   "type": "movie",
+   "rank": 83,
+   "title": "We All Loved Each Other So Much",
+   "originalTitle": "C'eravamo tanto amati",
+   "year": 1974,
+   "posterPath": "/zGGWYpiKNwjpKxelPxOMqJnUgDs.jpg"
+  },
+  {
+   "tmdbId": 1084244,
+   "type": "movie",
+   "rank": 84,
+   "title": "Toy Story 5",
+   "year": 2026,
+   "posterPath": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
+  },
+  {
+   "tmdbId": 644479,
+   "type": "movie",
+   "rank": 85,
+   "title": "Dedicated to my ex",
+   "originalTitle": "Dedicada A Mi Ex",
+   "year": 2019,
+   "posterPath": "/xc4bTXVwYNXi10jG9dwcaYt5IpU.jpg"
+  },
+  {
+   "tmdbId": 1585,
+   "type": "movie",
+   "rank": 86,
+   "title": "It's a Wonderful Life",
+   "year": 1946,
+   "posterPath": "/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg"
+  },
+  {
+   "tmdbId": 1356039,
+   "type": "movie",
+   "rank": 87,
+   "title": "Counterattack",
+   "originalTitle": "Contraataque",
+   "year": 2025,
+   "posterPath": "/kxnFdLJhi37ZVFDCL1ka0yeQVU5.jpg"
+  },
+  {
+   "tmdbId": 77338,
+   "type": "movie",
+   "rank": 88,
+   "title": "The Intouchables",
+   "originalTitle": "Intouchables",
+   "year": 2011,
+   "posterPath": "/1QU7HKgsQbGpzsJbJK4pAVQV9F5.jpg"
+  },
+  {
+   "tmdbId": 599,
+   "type": "movie",
+   "rank": 89,
+   "title": "Sunset Boulevard",
+   "year": 1950,
+   "posterPath": "/zt8aQ6ksqK6p1AopC5zVTDS9pKT.jpg"
+  },
+  {
+   "tmdbId": 654299,
+   "type": "movie",
+   "rank": 90,
+   "title": "Out of the Clear Blue Sky",
+   "originalTitle": "Como caído del cielo",
+   "year": 2019,
+   "posterPath": "/o9cSEHrXzPOO4OIoT9yrdxc216w.jpg"
+  },
+  {
+   "tmdbId": 18491,
+   "type": "movie",
+   "rank": 91,
+   "title": "Neon Genesis Evangelion: The End of Evangelion",
+   "originalTitle": "新世紀エヴァンゲリオン劇場版 Air／まごころを、君に",
+   "year": 1997,
+   "posterPath": "/j6G24dqI4WgUtChhWjfnI4lnmiK.jpg"
+  },
+  {
+   "tmdbId": 603,
+   "type": "movie",
+   "rank": 92,
+   "title": "The Matrix",
+   "year": 1999,
+   "posterPath": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg"
+  },
+  {
+   "tmdbId": 335,
+   "type": "movie",
+   "rank": 93,
+   "title": "Once Upon a Time in the West",
+   "originalTitle": "C'era una volta il West",
+   "year": 1968,
+   "posterPath": "/qbYgqOczabWNn2XKwgMtVrntD6P.jpg"
+  },
+  {
+   "tmdbId": 28,
+   "type": "movie",
+   "rank": 94,
+   "title": "Apocalypse Now",
+   "year": 1979,
+   "posterPath": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg"
+  },
+  {
+   "tmdbId": 1439930,
+   "type": "movie",
+   "rank": 95,
+   "title": "The Punisher: One Last Kill",
+   "year": 2026,
+   "posterPath": "/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg"
+  },
+  {
+   "tmdbId": 975,
+   "type": "movie",
+   "rank": 96,
+   "title": "Paths of Glory",
+   "year": 1957,
+   "posterPath": "/hGg1UCQSHlXfv2HI9bDHT2OQBam.jpg"
+  },
+  {
+   "tmdbId": 92060,
+   "type": "movie",
+   "rank": 97,
+   "title": "Michael Jackson's Thriller",
+   "year": 1983,
+   "posterPath": "/djv4LM6uanJriwpsOyJzaaSp4gf.jpg"
+  },
+  {
+   "tmdbId": 1139087,
+   "type": "movie",
+   "rank": 98,
+   "title": "Once Upon a Studio",
+   "year": 2023,
+   "posterPath": "/aiy3G1cYWV3LgKZHY6a3jL8bjYL.jpg"
+  },
+  {
+   "tmdbId": 504253,
+   "type": "movie",
+   "rank": 99,
+   "title": "I Want to Eat Your Pancreas",
+   "originalTitle": "君の膵臓をたべたい",
+   "year": 2018,
+   "posterPath": "/qpV8kvRfAntV7D4aOOsLIz7OdPc.jpg"
+  },
+  {
+   "tmdbId": 92321,
+   "type": "movie",
+   "rank": 100,
+   "title": "Hotarubi no Mori e",
+   "originalTitle": "蛍火の杜へ",
+   "year": 2011,
+   "posterPath": "/mDqzHV8UXWWNpZkoAbKmKX1ZxEE.jpg"
+  },
+  {
+   "tmdbId": 8587,
+   "type": "movie",
+   "rank": 101,
+   "title": "The Lion King",
+   "year": 1994,
+   "posterPath": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
+  },
+  {
+   "tmdbId": 637920,
+   "type": "movie",
+   "rank": 102,
+   "title": "Miracle in Cell No. 7",
+   "originalTitle": "7. Koğuştaki Mucize",
+   "year": 2019,
+   "posterPath": "/bOth4QmNyEkalwahfPCfiXjNh1r.jpg"
+  },
+  {
+   "tmdbId": 20941,
+   "type": "movie",
+   "rank": 103,
+   "title": "Innocent Voices",
+   "originalTitle": "Voces inocentes",
+   "year": 2005,
+   "posterPath": "/hvwB4LdMCLzqXsk5ZjR77vzPkGk.jpg"
+  },
+  {
+   "tmdbId": 652837,
+   "type": "movie",
+   "rank": 104,
+   "title": "Josee, the Tiger and the Fish",
+   "originalTitle": "ジョゼと虎と魚たち",
+   "year": 2020,
+   "posterPath": "/z1D8xi9x4uEhyFruo7uEHXUMD4K.jpg"
+  },
+  {
+   "tmdbId": 901,
+   "type": "movie",
+   "rank": 105,
+   "title": "City Lights",
+   "year": 1931,
+   "posterPath": "/bXNvzjULc9jrOVhGfjcc64uKZmZ.jpg"
+  },
+  {
+   "tmdbId": 299536,
+   "type": "movie",
+   "rank": 106,
+   "title": "Avengers: Infinity War",
+   "year": 2018,
+   "posterPath": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+  },
+  {
+   "tmdbId": 299534,
+   "type": "movie",
+   "rank": 107,
+   "title": "Avengers: Endgame",
+   "year": 2019,
+   "posterPath": "/jtDv3lCnST0fZRvdYFwR5CVwK2x.jpg"
+  },
+  {
+   "tmdbId": 630566,
+   "type": "movie",
+   "rank": 108,
+   "title": "Clouds",
+   "year": 2020,
+   "posterPath": "/2YvT3pdGngzpbAuxamTz4ZlabnT.jpg"
+  },
+  {
+   "tmdbId": 1280738,
+   "type": "movie",
+   "rank": 109,
+   "title": "The Furious",
+   "originalTitle": "火遮眼",
+   "year": 2026,
+   "posterPath": "/ivQ1Z3lI1xWvAeGDHBw3CCYZDGJ.jpg"
+  },
+  {
+   "tmdbId": 29259,
+   "type": "movie",
+   "rank": 110,
+   "title": "Le Trou",
+   "year": 1960,
+   "posterPath": "/xyZhiOz5NHVBUKlpioxjwajy7pm.jpg"
+  },
+  {
+   "tmdbId": 9702,
+   "type": "movie",
+   "rank": 111,
+   "title": "Bound by Honor",
+   "year": 1993,
+   "posterPath": "/8t9ojZ7fyn5iTqKCVjGvJ6nMacN.jpg"
+  },
+  {
+   "tmdbId": 857,
+   "type": "movie",
+   "rank": 112,
+   "title": "Saving Private Ryan",
+   "year": 1998,
+   "posterPath": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg"
+  },
+  {
+   "tmdbId": 24188,
+   "type": "movie",
+   "rank": 113,
+   "title": "Il Sorpasso",
+   "originalTitle": "Il sorpasso",
+   "year": 1962,
+   "posterPath": "/4h1ckrJQVcQYjeOkqS8i9BqZ9MI.jpg"
+  },
+  {
+   "tmdbId": 670,
+   "type": "movie",
+   "rank": 114,
+   "title": "Oldboy",
+   "originalTitle": "올드보이",
+   "year": 2003,
+   "posterPath": "/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg"
+  },
+  {
+   "tmdbId": 98,
+   "type": "movie",
+   "rank": 115,
+   "title": "Gladiator",
+   "year": 2000,
+   "posterPath": "/aDb548BOkFfI4nFm0kx8A3Ezh7H.jpg"
+  },
+  {
+   "tmdbId": 1204680,
+   "type": "movie",
+   "rank": 116,
+   "title": "Coyote vs. Acme",
+   "year": 2026,
+   "posterPath": "/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg"
+  },
+  {
+   "tmdbId": 635302,
+   "type": "movie",
+   "rank": 117,
+   "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+   "originalTitle": "劇場版「鬼滅の刃」無限列車編",
+   "year": 2020,
+   "posterPath": "/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg"
+  },
+  {
+   "tmdbId": 10376,
+   "type": "movie",
+   "rank": 118,
+   "title": "The Legend of 1900",
+   "originalTitle": "La leggenda del pianista sull'oceano",
+   "year": 1998,
+   "posterPath": "/iOcbJ5pxokOPDRgieVDbsFMrCc6.jpg"
+  },
+  {
+   "tmdbId": 447362,
+   "type": "movie",
+   "rank": 119,
+   "title": "Life in a Year",
+   "year": 2020,
+   "posterPath": "/bP7u19opmHXYeTCUwGjlLldmUMc.jpg"
+  },
+  {
+   "tmdbId": 572154,
+   "type": "movie",
+   "rank": 120,
+   "title": "Rascal Does Not Dream of a Dreaming Girl",
+   "originalTitle": "青春ブタ野郎はゆめみる少女の夢を見ない",
+   "year": 2019,
+   "posterPath": "/AtFnN4OztDJy8IFwYd5JfU0jlEM.jpg"
+  },
+  {
+   "tmdbId": 490132,
+   "type": "movie",
+   "rank": 121,
+   "title": "Green Book",
+   "year": 2018,
+   "posterPath": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg"
+  },
+  {
+   "tmdbId": 632632,
+   "type": "movie",
+   "rank": 122,
+   "title": "Given",
+   "originalTitle": "映画 ギヴン",
+   "year": 2020,
+   "posterPath": "/pegCub2zdYD5As43AOmGsIctuKc.jpg"
+  },
+  {
+   "tmdbId": 283566,
+   "type": "movie",
+   "rank": 123,
+   "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+   "originalTitle": "シン・エヴァンゲリオン劇場版:||",
+   "year": 2021,
+   "posterPath": "/md5wZRRj8biHrGtyitgBZo7674t.jpg"
+  },
+  {
+   "tmdbId": 31439,
+   "type": "movie",
+   "rank": 124,
+   "title": "To Live",
+   "originalTitle": "活着",
+   "year": 1994,
+   "posterPath": "/bv0qREWTw8TPAtgt22ELp1UlKVl.jpg"
+  },
+  {
+   "tmdbId": 16672,
+   "type": "movie",
+   "rank": 125,
+   "title": "Woman in the Dunes",
+   "originalTitle": "砂の女",
+   "year": 1964,
+   "posterPath": "/xiBr3bIT2xpbuIKo5bLK7ebP4O1.jpg"
+  },
+  {
+   "tmdbId": 315162,
+   "type": "movie",
+   "rank": 126,
+   "title": "Puss in Boots: The Last Wish",
+   "year": 2022,
+   "posterPath": "/kuf6dutpsT0vSVehic3EZIqkOBt.jpg"
+  },
+  {
+   "tmdbId": 16869,
+   "type": "movie",
+   "rank": 127,
+   "title": "Inglourious Basterds",
+   "year": 2009,
+   "posterPath": "/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg"
+  },
+  {
+   "tmdbId": 508965,
+   "type": "movie",
+   "rank": 128,
+   "title": "Klaus",
+   "year": 2019,
+   "posterPath": "/q125RHUDgR4gjwh1QkfYuJLYkL.jpg"
+  },
+  {
+   "tmdbId": 1375646,
+   "type": "movie",
+   "rank": 129,
+   "title": "Colony",
+   "originalTitle": "군체",
+   "year": 2026,
+   "posterPath": "/enz3WLx5QU1FUyhXZld04QWIc6N.jpg"
+  },
+  {
+   "tmdbId": 110420,
+   "type": "movie",
+   "rank": 130,
+   "title": "Wolf Children",
+   "originalTitle": "おおかみこどもの雨と雪",
+   "year": 2012,
+   "posterPath": "/vHMvBkr42Gh3OORcnmfCFfqJ1E.jpg"
+  },
+  {
+   "tmdbId": 37257,
+   "type": "movie",
+   "rank": 131,
+   "title": "Witness for the Prosecution",
+   "year": 1957,
+   "posterPath": "/bCj4EfuehAlgBwVd3diyWyhuuau.jpg"
+  },
+  {
+   "tmdbId": 15804,
+   "type": "movie",
+   "rank": 132,
+   "title": "A Brighter Summer Day",
+   "originalTitle": "牯嶺街少年殺人事件",
+   "year": 1991,
+   "posterPath": "/3l8fOAwiN3N5n3hHnZ51eog7Zu2.jpg"
+  },
+  {
+   "tmdbId": 1124,
+   "type": "movie",
+   "rank": 133,
+   "title": "The Prestige",
+   "year": 2006,
+   "posterPath": "/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg"
+  },
+  {
+   "tmdbId": 527641,
+   "type": "movie",
+   "rank": 134,
+   "title": "Five Feet Apart",
+   "year": 2019,
+   "posterPath": "/kreTuJBkUjVWePRfhHZuYfhNE1T.jpg"
+  },
+  {
+   "tmdbId": 354912,
+   "type": "movie",
+   "rank": 135,
+   "title": "Coco",
+   "year": 2017,
+   "posterPath": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg"
+  },
+  {
+   "tmdbId": 11,
+   "type": "movie",
+   "rank": 136,
+   "title": "Star Wars",
+   "year": 1977,
+   "posterPath": "/fai0rspsNeJCS69wHNjOdWxcI7P.jpg"
+  },
+  {
+   "tmdbId": 50014,
+   "type": "movie",
+   "rank": 137,
+   "title": "The Help",
+   "year": 2011,
+   "posterPath": "/3kmfoWWEc9Vtyuaf9v5VipRgdjx.jpg"
+  },
+  {
+   "tmdbId": 980477,
+   "type": "movie",
+   "rank": 138,
+   "title": "Ne Zha 2",
+   "originalTitle": "哪吒之魔童闹海",
+   "year": 2025,
+   "posterPath": "/fcs5AdCKliQaQgXsPS9kDejamIJ.jpg"
+  },
+  {
+   "tmdbId": 537061,
+   "type": "movie",
+   "rank": 139,
+   "title": "Steven Universe: The Movie",
+   "year": 2019,
+   "posterPath": "/8mRgpubxHqnqvENK4Bei30xMDvy.jpg"
+  },
+  {
+   "tmdbId": 995133,
+   "type": "movie",
+   "rank": 140,
+   "title": "The Boy, the Mole, the Fox and the Horse",
+   "year": 2022,
+   "posterPath": "/wAKBWRhMmBtrCCuqmFwPm2RGTph.jpg"
+  },
+  {
+   "tmdbId": 694,
+   "type": "movie",
+   "rank": 141,
+   "title": "The Shining",
+   "year": 1980,
+   "posterPath": "/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg"
+  },
+  {
+   "tmdbId": 11324,
+   "type": "movie",
+   "rank": 142,
+   "title": "Shutter Island",
+   "year": 2010,
+   "posterPath": "/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg"
+  },
+  {
+   "tmdbId": 68718,
+   "type": "movie",
+   "rank": 143,
+   "title": "Django Unchained",
+   "year": 2012,
+   "posterPath": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg"
+  },
+  {
+   "tmdbId": 26451,
+   "type": "movie",
+   "rank": 144,
+   "title": "Investigation of a Citizen Above Suspicion",
+   "originalTitle": "Indagine su un cittadino al di sopra di ogni sospetto",
+   "year": 1970,
+   "posterPath": "/vPTZwlq1IC4o1DCsEZEl2uGljzm.jpg"
+  },
+  {
+   "tmdbId": 324786,
+   "type": "movie",
+   "rank": 145,
+   "title": "Hacksaw Ridge",
+   "year": 2016,
+   "posterPath": "/fnOMP6mjmOmZwmlC1n0K7ivrzt1.jpg"
+  },
+  {
+   "tmdbId": 1226863,
+   "type": "movie",
+   "rank": 146,
+   "title": "The Super Mario Galaxy Movie",
+   "year": 2026,
+   "posterPath": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+  },
+  {
+   "tmdbId": 618344,
+   "type": "movie",
+   "rank": 147,
+   "title": "Justice League Dark: Apokolips War",
+   "year": 2020,
+   "posterPath": "/c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg"
+  },
+  {
+   "tmdbId": 568332,
+   "type": "movie",
+   "rank": 148,
+   "title": "Taylor Swift: Reputation Stadium Tour",
+   "year": 2018,
+   "posterPath": "/niMx0WNoKd55HxohjVnYAL7ySfw.jpg"
+  },
+  {
+   "tmdbId": 265177,
+   "type": "movie",
+   "rank": 149,
+   "title": "Mommy",
+   "year": 2014,
+   "posterPath": "/uPDP0cHGOpkr47rdCdHWo4CyiPj.jpg"
+  },
+  {
+   "tmdbId": 284,
+   "type": "movie",
+   "rank": 150,
+   "title": "The Apartment",
+   "year": 1960,
+   "posterPath": "/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg"
+  },
+  {
+   "tmdbId": 25237,
+   "type": "movie",
+   "rank": 151,
+   "title": "Come and See",
+   "originalTitle": "Иди и смотри",
+   "year": 1985,
+   "posterPath": "/qNbMsKVzigERgJUbwf8pKyZogpb.jpg"
+  },
+  {
+   "tmdbId": 1244492,
+   "type": "movie",
+   "rank": 152,
+   "title": "Look Back",
+   "originalTitle": "ルックバック",
+   "year": 2024,
+   "posterPath": "/4f2EcNkp1Mvp9wE5w7HKxcmACWg.jpg"
+  },
+  {
+   "tmdbId": 1186532,
+   "type": "movie",
+   "rank": 153,
+   "title": "The Forge",
+   "year": 2024,
+   "posterPath": "/oranxontIQRmhuyQlkoAwxpeBYz.jpg"
+  },
+  {
+   "tmdbId": 313106,
+   "type": "movie",
+   "rank": 154,
+   "title": "Doctor Who: The Day of the Doctor",
+   "year": 2013,
+   "posterPath": "/6c0CjymaupC5xerJCemuaSV4CLj.jpg"
+  },
+  {
+   "tmdbId": 280,
+   "type": "movie",
+   "rank": 155,
+   "title": "Terminator 2: Judgment Day",
+   "year": 1991,
+   "posterPath": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg"
+  },
+  {
+   "tmdbId": 290098,
+   "type": "movie",
+   "rank": 156,
+   "title": "The Handmaiden",
+   "originalTitle": "아가씨",
+   "year": 2016,
+   "posterPath": "/dLlH4aNHdnmf62umnInL8xPlPzw.jpg"
+  },
+  {
+   "tmdbId": 348,
+   "type": "movie",
+   "rank": 157,
+   "title": "Alien",
+   "year": 1979,
+   "posterPath": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg"
+  },
+  {
+   "tmdbId": 77,
+   "type": "movie",
+   "rank": 158,
+   "title": "Memento",
+   "year": 2000,
+   "posterPath": "/nzlv62aC0octS5AklAiWpXLX9Z0.jpg"
+  },
+  {
+   "tmdbId": 620683,
+   "type": "movie",
+   "rank": 159,
+   "title": "My Mom Is a Character 3",
+   "originalTitle": "Minha Mãe é uma Peça 3: O Filme",
+   "year": 2019,
+   "posterPath": "/zw77BFPGJ73Lig8GwRzYj1XHq53.jpg"
+  },
+  {
+   "tmdbId": 3780,
+   "type": "movie",
+   "rank": 160,
+   "title": "Red Beard",
+   "originalTitle": "赤ひげ",
+   "year": 1965,
+   "posterPath": "/iYNH3Re0JSypoYaWvZtERUnNaJL.jpg"
+  },
+  {
+   "tmdbId": 1339713,
+   "type": "movie",
+   "rank": 161,
+   "title": "Obsession",
+   "year": 2026,
+   "posterPath": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
+  },
+  {
+   "tmdbId": 1160164,
+   "type": "movie",
+   "rank": 162,
+   "title": "TAYLOR SWIFT | THE ERAS TOUR",
+   "year": 2023,
+   "posterPath": "/jf3YO8hOqGHCupsREf5qymYq1n.jpg"
+  },
+  {
+   "tmdbId": 851644,
+   "type": "movie",
+   "rank": 163,
+   "title": "20th Century Girl",
+   "originalTitle": "20세기 소녀",
+   "year": 2022,
+   "posterPath": "/od22ftNnyag0TTxcnJhlsu3aLoU.jpg"
+  },
+  {
+   "tmdbId": 489,
+   "type": "movie",
+   "rank": 164,
+   "title": "Good Will Hunting",
+   "year": 1997,
+   "posterPath": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg"
+  },
+  {
+   "tmdbId": 441130,
+   "type": "movie",
+   "rank": 165,
+   "title": "Wolfwalkers",
+   "year": 2020,
+   "posterPath": "/vqGiNbdc2sDwsnivMMYzwAoSSu6.jpg"
+  },
+  {
+   "tmdbId": 185,
+   "type": "movie",
+   "rank": 166,
+   "title": "A Clockwork Orange",
+   "year": 1971,
+   "posterPath": "/4sHeTAp65WrSSuc05nRBKddhBxO.jpg"
+  },
+  {
+   "tmdbId": 629,
+   "type": "movie",
+   "rank": 167,
+   "title": "The Usual Suspects",
+   "year": 1995,
+   "posterPath": "/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg"
+  },
+  {
+   "tmdbId": 31217,
+   "type": "movie",
+   "rank": 168,
+   "title": "The Human Condition I: No Greater Love",
+   "originalTitle": "人間の條件　第１部純愛篇／第２部激怒篇",
+   "year": 1959,
+   "posterPath": "/q7godavx5XEbeVxEeqi4pmiOKdI.jpg"
+  },
+  {
+   "tmdbId": 5156,
+   "type": "movie",
+   "rank": 169,
+   "title": "Bicycle Thieves",
+   "originalTitle": "Ladri di biciclette",
+   "year": 1948,
+   "posterPath": "/iPdVqIpmR3bRvOQJPrn4pr2KR3q.jpg"
+  },
+  {
+   "tmdbId": 37165,
+   "type": "movie",
+   "rank": 170,
+   "title": "The Truman Show",
+   "year": 1998,
+   "posterPath": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg"
+  },
+  {
+   "tmdbId": 1422,
+   "type": "movie",
+   "rank": 171,
+   "title": "The Departed",
+   "year": 2006,
+   "posterPath": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg"
+  },
+  {
+   "tmdbId": 361743,
+   "type": "movie",
+   "rank": 172,
+   "title": "Top Gun: Maverick",
+   "year": 2022,
+   "posterPath": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg"
+  },
+  {
+   "tmdbId": 81481,
+   "type": "movie",
+   "rank": 173,
+   "title": "Silenced",
+   "originalTitle": "도가니",
+   "year": 2011,
+   "posterPath": "/mbMp0oIFmYnw0i5gzRoKt8cH5ve.jpg"
+  },
+  {
+   "tmdbId": 51822,
+   "type": "movie",
+   "rank": 174,
+   "title": "Love Hurts",
+   "originalTitle": "Amar te duele",
+   "year": 2002,
+   "posterPath": "/kbtgdKUEnX76MOJ7w30js5vSNLT.jpg"
+  },
+  {
+   "tmdbId": 111,
+   "type": "movie",
+   "rank": 175,
+   "title": "Scarface",
+   "year": 1983,
+   "posterPath": "/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg"
+  },
+  {
+   "tmdbId": 18148,
+   "type": "movie",
+   "rank": 176,
+   "title": "Tokyo Story",
+   "originalTitle": "東京物語",
+   "year": 1953,
+   "posterPath": "/g2YbTYKpY7N2yDSk7BfXZ18I5QV.jpg"
+  },
+  {
+   "tmdbId": 522924,
+   "type": "movie",
+   "rank": 177,
+   "title": "The Art of Racing in the Rain",
+   "year": 2019,
+   "posterPath": "/mi5VN4ww0JZgRFJIaPxxTGKjUg7.jpg"
+  },
+  {
+   "tmdbId": 693134,
+   "type": "movie",
+   "rank": 178,
+   "title": "Dune: Part Two",
+   "year": 2024,
+   "posterPath": "/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+  },
+  {
+   "tmdbId": 517814,
+   "type": "movie",
+   "rank": 179,
+   "title": "Capernaum",
+   "originalTitle": "کفرناحوم",
+   "year": 2018,
+   "posterPath": "/mFnfTVADj8yOxwzprYOmTPselk8.jpg"
+  },
+  {
+   "tmdbId": 289,
+   "type": "movie",
+   "rank": 180,
+   "title": "Casablanca",
+   "year": 1943,
+   "posterPath": "/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg"
+  },
+  {
+   "tmdbId": 575813,
+   "type": "movie",
+   "rank": 181,
+   "title": "Better Days",
+   "originalTitle": "少年的你",
+   "year": 2019,
+   "posterPath": "/csVZ2ZQCj98XdZoCuW1aixMYJ0W.jpg"
+  },
+  {
+   "tmdbId": 476292,
+   "type": "movie",
+   "rank": 182,
+   "title": "Maquia: When the Promised Flower Blooms",
+   "originalTitle": "さよならの朝に約束の花をかざろう",
+   "year": 2018,
+   "posterPath": "/hL3NqRE2ccR4Y2sYSJTrmalRjrz.jpg"
+  },
+  {
+   "tmdbId": 606856,
+   "type": "movie",
+   "rank": 183,
+   "title": "Togo",
+   "year": 2019,
+   "posterPath": "/921q4gPNN4J6UxvKaw6SCNBe3F8.jpg"
+  },
+  {
+   "tmdbId": 10098,
+   "type": "movie",
+   "rank": 184,
+   "title": "The Kid",
+   "year": 1921,
+   "posterPath": "/drgMcyTsySQBnUPGaBThCHGdlWT.jpg"
+  },
+  {
+   "tmdbId": 490,
+   "type": "movie",
+   "rank": 185,
+   "title": "The Seventh Seal",
+   "originalTitle": "Det sjunde inseglet",
+   "year": 1957,
+   "posterPath": "/wcZ21zrOsy0b52AfAF50XpTiv75.jpg"
+  },
+  {
+   "tmdbId": 399106,
+   "type": "movie",
+   "rank": 186,
+   "title": "Piper",
+   "year": 2016,
+   "posterPath": "/5fu2d809jepLwEpES7wggiECLoQ.jpg"
+  },
+  {
+   "tmdbId": 592350,
+   "type": "movie",
+   "rank": 187,
+   "title": "My Hero Academia: Heroes Rising",
+   "originalTitle": "僕のヒーローアカデミア THE MOVIE ヒーローズ：ライジング",
+   "year": 2019,
+   "posterPath": "/kpWsIkfXrnQ1pmR79qAHHq7DPxc.jpg"
+  },
+  {
+   "tmdbId": 426,
+   "type": "movie",
+   "rank": 188,
+   "title": "Vertigo",
+   "year": 1958,
+   "posterPath": "/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg"
+  },
+  {
+   "tmdbId": 10681,
+   "type": "movie",
+   "rank": 189,
+   "title": "WALL·E",
+   "year": 2008,
+   "posterPath": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg"
+  },
+  {
+   "tmdbId": 872,
+   "type": "movie",
+   "rank": 190,
+   "title": "Singin' in the Rain",
+   "year": 1952,
+   "posterPath": "/zjrpWniKbzu0zFR5sUI1Ptdfl9y.jpg"
+  },
+  {
+   "tmdbId": 1327819,
+   "type": "movie",
+   "rank": 191,
+   "title": "Hoppers",
+   "year": 2026,
+   "posterPath": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
+  },
+  {
+   "tmdbId": 1103621,
+   "type": "movie",
+   "rank": 192,
+   "title": "How to Make Millions Before Grandma Dies",
+   "originalTitle": "หลานม่า",
+   "year": 2024,
+   "posterPath": "/9Xa0Grd2jq2lM2gqcoTB4F9TjMd.jpg"
+  },
+  {
+   "tmdbId": 797,
+   "type": "movie",
+   "rank": 193,
+   "title": "Persona",
+   "year": 1966,
+   "posterPath": "/cl0HEZT8UfzLqaMrYTvGNHOfPYj.jpg"
+  },
+  {
+   "tmdbId": 666,
+   "type": "movie",
+   "rank": 194,
+   "title": "Central Station",
+   "originalTitle": "Central do Brasil",
+   "year": 1998,
+   "posterPath": "/zJvp7XjQ2LhPbDVYhFXyucs40vR.jpg"
+  },
+  {
+   "tmdbId": 600,
+   "type": "movie",
+   "rank": 195,
+   "title": "Full Metal Jacket",
+   "year": 1987,
+   "posterPath": "/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg"
+  },
+  {
+   "tmdbId": 458220,
+   "type": "movie",
+   "rank": 196,
+   "title": "Palmer",
+   "year": 2021,
+   "posterPath": "/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg"
+  },
+  {
+   "tmdbId": 935,
+   "type": "movie",
+   "rank": 197,
+   "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+   "year": 1964,
+   "posterPath": "/gHm96BRW4GoI339rF1vYoYTB6Qe.jpg"
+  },
+  {
+   "tmdbId": 38288,
+   "type": "movie",
+   "rank": 198,
+   "title": "“The Shorts” by Aldo, Giovanni and Giacomo",
+   "originalTitle": "“I Corti” di Aldo, Giovanni e Giacomo",
+   "year": 1996,
+   "posterPath": "/y3hEulMYSTQuvmI5jBTyWrcvJQX.jpg"
+  },
+  {
+   "tmdbId": 103,
+   "type": "movie",
+   "rank": 199,
+   "title": "Taxi Driver",
+   "year": 1976,
+   "posterPath": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg"
+  },
+  {
+   "tmdbId": 475557,
+   "type": "movie",
+   "rank": 200,
+   "title": "Joker",
+   "year": 2019,
+   "posterPath": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
+  },
+  {
+   "tmdbId": 312359,
+   "type": "show",
+   "rank": 1,
+   "title": "Dragon Ball Super: Beerus",
+   "originalTitle": "ドラゴンボール超 ビルス",
+   "year": 2026,
+   "posterPath": "/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg"
+  },
+  {
+   "tmdbId": 276161,
+   "type": "show",
+   "rank": 2,
+   "title": "Teach You a Lesson",
+   "originalTitle": "참교육",
+   "year": 2026,
+   "posterPath": "/fMECSPrTmRClSViMsXFYmiYIcWP.jpg"
+  },
+  {
+   "tmdbId": 299167,
+   "type": "show",
+   "rank": 3,
+   "title": "Dutton Ranch",
+   "year": 2026,
+   "posterPath": "/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg"
+  },
+  {
+   "tmdbId": 229544,
+   "type": "show",
+   "rank": 4,
+   "title": "Among Us",
+   "year": 2026,
+   "posterPath": "/ourBbG4B1dAjfFUCzuUYEZpR101.jpg"
+  },
+  {
+   "tmdbId": 278573,
+   "type": "show",
+   "rank": 5,
+   "title": "Perfect Crown",
+   "originalTitle": "21세기 대군부인",
+   "year": 2026,
+   "posterPath": "/ocXkHSslrSWMz2ZJGl5MjF6dQr3.jpg"
+  },
+  {
+   "tmdbId": 1396,
+   "type": "show",
+   "rank": 6,
+   "title": "Breaking Bad",
+   "year": 2008,
+   "posterPath": "/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg"
+  },
+  {
+   "tmdbId": 273240,
+   "type": "show",
+   "rank": 7,
+   "title": "Off Campus",
+   "year": 2026,
+   "posterPath": "/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg"
+  },
+  {
+   "tmdbId": 214999,
+   "type": "show",
+   "rank": 8,
+   "title": "The Good Bad Mother",
+   "originalTitle": "나쁜 엄마",
+   "year": 2023,
+   "posterPath": "/vtDLhvpTk1xcaBCKubSH0if575G.jpg"
+  },
+  {
+   "tmdbId": 85077,
+   "type": "show",
+   "rank": 9,
+   "title": "The Chosen",
+   "year": 2019,
+   "posterPath": "/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg"
+  },
+  {
+   "tmdbId": 322430,
+   "type": "show",
+   "rank": 10,
+   "title": "The Polygamist",
+   "year": 2026,
+   "posterPath": "/vamznpYBCI9n7VhrI3mxuzff7XP.jpg"
+  },
+  {
+   "tmdbId": 209867,
+   "type": "show",
+   "rank": 11,
+   "title": "Frieren: Beyond Journey's End",
+   "originalTitle": "葬送のフリーレン",
+   "year": 2023,
+   "posterPath": "/dqZENchTd7lp5zht7BdlqM7RBhD.jpg"
+  },
+  {
+   "tmdbId": 245026,
+   "type": "show",
+   "rank": 12,
+   "title": "Wizards Beyond Waverly Place",
+   "year": 2024,
+   "posterPath": "/5hrBpjFzIqmN9k7QxEC610gwZGw.jpg"
+  },
+  {
+   "tmdbId": 259666,
+   "type": "show",
+   "rank": 13,
+   "title": "No One Will Miss Us",
+   "originalTitle": "Nadie nos va a extrañar",
+   "year": 2024,
+   "posterPath": "/5U3WiAz67fJn5gnvFk4zOJAx9Sc.jpg"
+  },
+  {
+   "tmdbId": 219246,
+   "type": "show",
+   "rank": 14,
+   "title": "When Life Gives You Tangerines",
+   "originalTitle": "폭싹 속았수다",
+   "year": 2025,
+   "posterPath": "/1VC3sEFxYXYDqQUCAnvWfUsYg1s.jpg"
+  },
+  {
+   "tmdbId": 246,
+   "type": "show",
+   "rank": 15,
+   "title": "Avatar: The Last Airbender",
+   "year": 2005,
+   "posterPath": "/yaGt4GIutpbXHsv48tWceWg6s56.jpg"
+  },
+  {
+   "tmdbId": 284445,
+   "type": "show",
+   "rank": 16,
+   "title": "Takopi's Original Sin",
+   "originalTitle": "タコピーの原罪",
+   "year": 2025,
+   "posterPath": "/xPXDVhVKt0XM34ihoUVMHtLYTw8.jpg"
+  },
+  {
+   "tmdbId": 37854,
+   "type": "show",
+   "rank": 17,
+   "title": "One Piece",
+   "originalTitle": "ワンピース",
+   "year": 1999,
+   "posterPath": "/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg"
+  },
+  {
+   "tmdbId": 259837,
+   "type": "show",
+   "rank": 18,
+   "title": "The WONDERfools",
+   "originalTitle": "원더풀스",
+   "year": 2026,
+   "posterPath": "/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg"
+  },
+  {
+   "tmdbId": 94605,
+   "type": "show",
+   "rank": 19,
+   "title": "Arcane",
+   "year": 2021,
+   "posterPath": "/87C0wecB8bHb1PsrKBI4kJiEkgV.jpg"
+  },
+  {
+   "tmdbId": 250307,
+   "type": "show",
+   "rank": 20,
+   "title": "The Pitt",
+   "year": 2025,
+   "posterPath": "/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg"
+  },
+  {
+   "tmdbId": 87108,
+   "type": "show",
+   "rank": 21,
+   "title": "Chernobyl",
+   "year": 2019,
+   "posterPath": "/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg"
+  },
+  {
+   "tmdbId": 31911,
+   "type": "show",
+   "rank": 22,
+   "title": "Fullmetal Alchemist: Brotherhood",
+   "originalTitle": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+   "year": 2009,
+   "posterPath": "/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg"
+  },
+  {
+   "tmdbId": 64010,
+   "type": "show",
+   "rank": 23,
+   "title": "Reply 1988",
+   "originalTitle": "응답하라 1988",
+   "year": 2015,
+   "posterPath": "/655MownSWwplhvVlXERRJ4OSOG2.jpg"
+  },
+  {
+   "tmdbId": 60059,
+   "type": "show",
+   "rank": 24,
+   "title": "Better Call Saul",
+   "year": 2015,
+   "posterPath": "/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
+  },
+  {
+   "tmdbId": 138502,
+   "type": "show",
+   "rank": 25,
+   "title": "X-Men '97",
+   "year": 2024,
+   "posterPath": "/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg"
+  },
+  {
+   "tmdbId": 301507,
+   "type": "show",
+   "rank": 26,
+   "title": "Heated Rivalry",
+   "year": 2025,
+   "posterPath": "/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg"
+  },
+  {
+   "tmdbId": 271607,
+   "type": "show",
+   "rank": 27,
+   "title": "The Fragrant Flower Blooms with Dignity",
+   "originalTitle": "薫る花は凛と咲く",
+   "year": 2025,
+   "posterPath": "/g1sYAQt0OeCxzyfagSEqxUlsLnt.jpg"
+  },
+  {
+   "tmdbId": 200709,
+   "type": "show",
+   "rank": 28,
+   "title": "Weak Hero",
+   "originalTitle": "약한영웅",
+   "year": 2022,
+   "posterPath": "/hS9VVF5ffTVWNoC9B48QNsZFGy9.jpg"
+  },
+  {
+   "tmdbId": 1429,
+   "type": "show",
+   "rank": 29,
+   "title": "Attack on Titan",
+   "originalTitle": "進撃の巨人",
+   "year": 2013,
+   "posterPath": "/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg"
+  },
+  {
+   "tmdbId": 127532,
+   "type": "show",
+   "rank": 30,
+   "title": "Solo Leveling",
+   "originalTitle": "俺だけレベルアップな件",
+   "year": 2024,
+   "posterPath": "/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg"
+  },
+  {
+   "tmdbId": 261145,
+   "type": "show",
+   "rank": 31,
+   "title": "The Amazing Digital Circus",
+   "year": 2023,
+   "posterPath": "/lpfrgfomX8uNFxv4VaEzvJGs9TK.jpg"
+  },
+  {
+   "tmdbId": 92685,
+   "type": "show",
+   "rank": 32,
+   "title": "The Owl House",
+   "year": 2020,
+   "posterPath": "/cZLxKTslrf9gzRomVy8BhaYjg7n.jpg"
+  },
+  {
+   "tmdbId": 196950,
+   "type": "show",
+   "rank": 33,
+   "title": "Witch Hat Atelier",
+   "originalTitle": "とんがり帽子のアトリエ",
+   "year": 2026,
+   "posterPath": "/78m1Tv3suHmUryTI9VNPwKLKjHZ.jpg"
+  },
+  {
+   "tmdbId": 1398,
+   "type": "show",
+   "rank": 34,
+   "title": "The Sopranos",
+   "year": 1999,
+   "posterPath": "/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg"
+  },
+  {
+   "tmdbId": 60625,
+   "type": "show",
+   "rank": 35,
+   "title": "Rick and Morty",
+   "year": 2013,
+   "posterPath": "/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg"
+  },
+  {
+   "tmdbId": 42705,
+   "type": "show",
+   "rank": 36,
+   "title": "Fighting Spirit",
+   "originalTitle": "はじめの一歩",
+   "year": 2000,
+   "posterPath": "/fEYVJu08En9A7n0e5TTpeoSjtIm.jpg"
+  },
+  {
+   "tmdbId": 213375,
+   "type": "show",
+   "rank": 37,
+   "title": "VisionQuest",
+   "year": 2026,
+   "posterPath": "/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg"
+  },
+  {
+   "tmdbId": 46298,
+   "type": "show",
+   "rank": 38,
+   "title": "Hunter x Hunter",
+   "originalTitle": "HUNTER×HUNTER",
+   "year": 2011,
+   "posterPath": "/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg"
+  },
+  {
+   "tmdbId": 42573,
+   "type": "show",
+   "rank": 39,
+   "title": "Slam Dunk",
+   "originalTitle": "スラムダンク",
+   "year": 1993,
+   "posterPath": "/nmmOKeydeeO4TKucpvyMA2o6gdD.jpg"
+  },
+  {
+   "tmdbId": 1430,
+   "type": "show",
+   "rank": 40,
+   "title": "Cosmos: A Personal Voyage",
+   "year": 1980,
+   "posterPath": "/nOGArjE0WMkzY2GW1taJm8l9gxD.jpg"
+  },
+  {
+   "tmdbId": 220542,
+   "type": "show",
+   "rank": 41,
+   "title": "The Apothecary Diaries",
+   "originalTitle": "薬屋のひとりごと",
+   "year": 2023,
+   "posterPath": "/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg"
+  },
+  {
+   "tmdbId": 131378,
+   "type": "show",
+   "rank": 42,
+   "title": "Adventure Time: Fionna and Cake",
+   "year": 2023,
+   "posterPath": "/fi1b6U1kp73xheECzqwzMn8u3mX.jpg"
+  },
+  {
+   "tmdbId": 70785,
+   "type": "show",
+   "rank": 43,
+   "title": "Anne with an E",
+   "year": 2017,
+   "posterPath": "/6P6tXhjT5tK3qOXzxF9OMLlG7iz.jpg"
+  },
+  {
+   "tmdbId": 213562,
+   "type": "show",
+   "rank": 44,
+   "title": "Crystal Lake",
+   "year": 2026,
+   "posterPath": "/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg"
+  },
+  {
+   "tmdbId": 89456,
+   "type": "show",
+   "rank": 45,
+   "title": "Primal",
+   "year": 2019,
+   "posterPath": "/mf12pRakr3eYdJtv6klQtoznnbU.jpg"
+  },
+  {
+   "tmdbId": 1044,
+   "type": "show",
+   "rank": 46,
+   "title": "Planet Earth",
+   "year": 2006,
+   "posterPath": "/bNcNxUtZ520d5de5s78onoiSiwQ.jpg"
+  },
+  {
+   "tmdbId": 80040,
+   "type": "show",
+   "rank": 47,
+   "title": "Desafío Champions Sendokai",
+   "year": 2013,
+   "posterPath": "/8dBMIQ2r8FdLABrZeGklAUAUYCH.jpg"
+  },
+  {
+   "tmdbId": 231280,
+   "type": "show",
+   "rank": 48,
+   "title": "Good Boy",
+   "originalTitle": "굿보이",
+   "year": 2025,
+   "posterPath": "/59MAdHaHepsz3uDCU1LyoNQcLlT.jpg"
+  },
+  {
+   "tmdbId": 68595,
+   "type": "show",
+   "rank": 49,
+   "title": "Planet Earth II",
+   "year": 2016,
+   "posterPath": "/5maYKYzWpE68ycxGh1luu4P2LOS.jpg"
+  },
+  {
+   "tmdbId": 77696,
+   "type": "show",
+   "rank": 50,
+   "title": "Run BTS!",
+   "originalTitle": "달려라 방탄!",
+   "year": 2015,
+   "posterPath": "/xi6fnObkhQI7onZWeSB9rA80Abs.jpg"
+  },
+  {
+   "tmdbId": 31132,
+   "type": "show",
+   "rank": 51,
+   "title": "Regular Show",
+   "year": 2010,
+   "posterPath": "/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg"
+  },
+  {
+   "tmdbId": 85937,
+   "type": "show",
+   "rank": 52,
+   "title": "Demon Slayer: Kimetsu no Yaiba",
+   "originalTitle": "鬼滅の刃",
+   "year": 2019,
+   "posterPath": "/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg"
+  },
+  {
+   "tmdbId": 1438,
+   "type": "show",
+   "rank": 53,
+   "title": "The Wire",
+   "year": 2002,
+   "posterPath": "/4lbclFySvugI51fwsyxBTOm4DqK.jpg"
+  },
+  {
+   "tmdbId": 43,
+   "type": "show",
+   "rank": 54,
+   "title": "31 Minutes",
+   "originalTitle": "31 Minutos",
+   "year": 2003,
+   "posterPath": "/rI0hXEJFcgRaigCWGEuqEXQvOjY.jpg"
+  },
+  {
+   "tmdbId": 72637,
+   "type": "show",
+   "rank": 55,
+   "title": "Once",
+   "originalTitle": "O11CE",
+   "year": 2017,
+   "posterPath": "/d4vPg3QsTJJh6C5MHARTb5CyqOu.jpg"
+  },
+  {
+   "tmdbId": 95557,
+   "type": "show",
+   "rank": 56,
+   "title": "INVINCIBLE",
+   "year": 2021,
+   "posterPath": "/4tblBrslcKSifMVZ3TmtT2ukMor.jpg"
+  },
+  {
+   "tmdbId": 74313,
+   "type": "show",
+   "rank": 57,
+   "title": "Blue Planet II",
+   "year": 2017,
+   "posterPath": "/j1NsoYYDYHnPkRr7Enqr8tlexgO.jpg"
+  },
+  {
+   "tmdbId": 3854,
+   "type": "show",
+   "rank": 58,
+   "title": "The Spectacular Spider-Man",
+   "year": 2008,
+   "posterPath": "/dCNxOhXT7c4lqYuRpdM3m8s9XDp.jpg"
+  },
+  {
+   "tmdbId": 40075,
+   "type": "show",
+   "rank": 59,
+   "title": "Gravity Falls",
+   "year": 2012,
+   "posterPath": "/qwi3p6PzKfQZ4YXBzv3CP5pO2dE.jpg"
+  },
+  {
+   "tmdbId": 85349,
+   "type": "show",
+   "rank": 60,
+   "title": "Amphibia",
+   "year": 2019,
+   "posterPath": "/bFCgv9iWZECWSDxNQYc9soqvwjx.jpg"
+  },
+  {
+   "tmdbId": 62741,
+   "type": "show",
+   "rank": 61,
+   "title": "Kamisama Kiss",
+   "originalTitle": "神様はじめました",
+   "year": 2012,
+   "posterPath": "/cRama3S1CMYXFu1LmUkMMPoC99O.jpg"
+  },
+  {
+   "tmdbId": 3498,
+   "type": "show",
+   "rank": 62,
+   "title": "Wizards of Waverly Place",
+   "year": 2007,
+   "posterPath": "/spVI8Zns4Ep30zzxcoO7f7nwfck.jpg"
+  },
+  {
+   "tmdbId": 247718,
+   "type": "show",
+   "rank": 63,
+   "title": "MobLand",
+   "year": 2025,
+   "posterPath": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg"
+  },
+  {
+   "tmdbId": 67915,
+   "type": "show",
+   "rank": 64,
+   "title": "Guardian: The Lonely and Great God",
+   "originalTitle": "쓸쓸하고 찬란하神-도깨비",
+   "year": 2016,
+   "posterPath": "/sPkxHNw5BFvuCFGWw825TS7n6X3.jpg"
+  },
+  {
+   "tmdbId": 57706,
+   "type": "show",
+   "rank": 65,
+   "title": "Ranma ½",
+   "originalTitle": "らんま1/2",
+   "year": 1989,
+   "posterPath": "/qb1R5iLZcjIgdDIfXFQXmJadQPI.jpg"
+  },
+  {
+   "tmdbId": 13916,
+   "type": "show",
+   "rank": 66,
+   "title": "Death Note",
+   "originalTitle": "DEATH NOTE",
+   "year": 2006,
+   "posterPath": "/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg"
+  },
+  {
+   "tmdbId": 4613,
+   "type": "show",
+   "rank": 67,
+   "title": "Band of Brothers",
+   "year": 2001,
+   "posterPath": "/eLdcio9HBKzsdIJGeD80oObDfkr.jpg"
+  },
+  {
+   "tmdbId": 280945,
+   "type": "show",
+   "rank": 68,
+   "title": "Bon Appétit, Your Majesty",
+   "originalTitle": "폭군의 셰프",
+   "year": 2025,
+   "posterPath": "/exUXEOierAwZ597010TLQka9TFy.jpg"
+  },
+  {
+   "tmdbId": 60863,
+   "type": "show",
+   "rank": 69,
+   "title": "Haikyu!!",
+   "originalTitle": "ハイキュー!!",
+   "year": 2014,
+   "posterPath": "/8WEr48swcqe89Zsy5sdrGCASlIg.jpg"
+  },
+  {
+   "tmdbId": 35790,
+   "type": "show",
+   "rank": 70,
+   "title": "Cardcaptor Sakura",
+   "originalTitle": "カードキャプターさくら",
+   "year": 1998,
+   "posterPath": "/dj0uI34MOkZMTE233tfRebs0YYx.jpg"
+  },
+  {
+   "tmdbId": 100,
+   "type": "show",
+   "rank": 71,
+   "title": "I Am Not an Animal",
+   "year": 2004,
+   "posterPath": "/zXhtWhYtlJVyyp5MdT7ggMJn5si.jpg"
+  },
+  {
+   "tmdbId": 65930,
+   "type": "show",
+   "rank": 72,
+   "title": "My Hero Academia",
+   "originalTitle": "僕のヒーローアカデミア",
+   "year": 2016,
+   "posterPath": "/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg"
+  },
+  {
+   "tmdbId": 62914,
+   "type": "show",
+   "rank": 73,
+   "title": "Merlí",
+   "year": 2015,
+   "posterPath": "/wQaGnuwIHhmB1jgY6CM3rJgScYR.jpg"
+  },
+  {
+   "tmdbId": 135157,
+   "type": "show",
+   "rank": 74,
+   "title": "Alchemy of Souls",
+   "originalTitle": "환혼",
+   "year": 2022,
+   "posterPath": "/gvOZN1NlAoL8iz9ghpES1zWA3w3.jpg"
+  },
+  {
+   "tmdbId": 230923,
+   "type": "show",
+   "rank": 75,
+   "title": "Lovely Runner",
+   "originalTitle": "선재 업고 튀어",
+   "year": 2024,
+   "posterPath": "/adcdNzLJ8LOjWJjNFrapXGzFco3.jpg"
+  },
+  {
+   "tmdbId": 119464,
+   "type": "show",
+   "rank": 76,
+   "title": "Navillera",
+   "originalTitle": "나빌레라",
+   "year": 2021,
+   "posterPath": "/pBd6pEhszsWk95TrUqo4bdXhH8T.jpg"
+  },
+  {
+   "tmdbId": 79141,
+   "type": "show",
+   "rank": 77,
+   "title": "Scissor Seven",
+   "originalTitle": "刺客伍六七",
+   "year": 2018,
+   "posterPath": "/mSLSrOndwNoompAARPHBaxF2E6E.jpg"
+  },
+  {
+   "tmdbId": 37419,
+   "type": "show",
+   "rank": 78,
+   "title": "Zoids: Chaotic Century",
+   "originalTitle": "ゾイド",
+   "year": 1999,
+   "posterPath": "/aVGuBvoBr9ujme4uUkAIRYk5vlt.jpg"
+  },
+  {
+   "tmdbId": 207250,
+   "type": "show",
+   "rank": 79,
+   "title": "The Dangers in My Heart",
+   "originalTitle": "僕の心のヤバイやつ",
+   "year": 2023,
+   "posterPath": "/bC8Bx0VHLZzvPCXzuDnvTIbzVIU.jpg"
+  },
+  {
+   "tmdbId": 2098,
+   "type": "show",
+   "rank": 80,
+   "title": "Batman: The Animated Series",
+   "year": 1992,
+   "posterPath": "/lBomQFW1vlm1yUYMNSbFZ45R4Ox.jpg"
+  },
+  {
+   "tmdbId": 46896,
+   "type": "show",
+   "rank": 81,
+   "title": "The Originals",
+   "year": 2013,
+   "posterPath": "/keJOhJXGiLL54EW6QocbyvQGquA.jpg"
+  },
+  {
+   "tmdbId": 2316,
+   "type": "show",
+   "rank": 82,
+   "title": "The Office",
+   "year": 2005,
+   "posterPath": "/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg"
+  },
+  {
+   "tmdbId": 36189,
+   "type": "show",
+   "rank": 83,
+   "title": "Boris",
+   "year": 2007,
+   "posterPath": "/iR7ufink0F23Wx19SetKaYqhjAZ.jpg"
+  },
+  {
+   "tmdbId": 21650,
+   "type": "show",
+   "rank": 84,
+   "title": "I'm in the Band",
+   "year": 2009,
+   "posterPath": "/cHTj9R311yylFlszfpQ0tk7Gpkh.jpg"
+  },
+  {
+   "tmdbId": 82728,
+   "type": "show",
+   "rank": 85,
+   "title": "Bluey",
+   "year": 2018,
+   "posterPath": "/9p4pNoGcuyCfHcGWKNrTopqMWtq.jpg"
+  },
+  {
+   "tmdbId": 2192,
+   "type": "show",
+   "rank": 86,
+   "title": "Robotech",
+   "year": 1985,
+   "posterPath": "/f3SIr4To9Tuie4I9D2U41XsIbpC.jpg"
+  },
+  {
+   "tmdbId": 95479,
+   "type": "show",
+   "rank": 87,
+   "title": "JUJUTSU KAISEN",
+   "originalTitle": "呪術廻戦",
+   "year": 2020,
+   "posterPath": "/6qQzMJG27XOJsyAEEIisoJB45j2.jpg"
+  },
+  {
+   "tmdbId": 95269,
+   "type": "show",
+   "rank": 88,
+   "title": "Toilet-Bound Hanako-kun",
+   "originalTitle": "地縛少年花子くん",
+   "year": 2020,
+   "posterPath": "/h1X1G8Q9Ba9Vy1YIgXHduenP8nv.jpg"
+  },
+  {
+   "tmdbId": 61617,
+   "type": "show",
+   "rank": 89,
+   "title": "Over the Garden Wall",
+   "year": 2014,
+   "posterPath": "/m3lU8n7WxzMecxKZcqhq5y5ESy.jpg"
+  },
+  {
+   "tmdbId": 31356,
+   "type": "show",
+   "rank": 90,
+   "title": "Big Time Rush",
+   "year": 2009,
+   "posterPath": "/34y5JjZYj2paoxA0RXEppU5LRpb.jpg"
+  },
+  {
+   "tmdbId": 35610,
+   "type": "show",
+   "rank": 91,
+   "title": "InuYasha",
+   "originalTitle": "犬夜叉",
+   "year": 2000,
+   "posterPath": "/rQHTNaynedeKurm0sNOsbAZg2oe.jpg"
+  },
+  {
+   "tmdbId": 61663,
+   "type": "show",
+   "rank": 92,
+   "title": "Your Lie in April",
+   "originalTitle": "四月は君の嘘",
+   "year": 2014,
+   "posterPath": "/92P9cD5uOzLVgx0QDTnwkXffjEG.jpg"
+  },
+  {
+   "tmdbId": 1408,
+   "type": "show",
+   "rank": 93,
+   "title": "House",
+   "year": 2004,
+   "posterPath": "/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg"
+  },
+  {
+   "tmdbId": 890,
+   "type": "show",
+   "rank": 94,
+   "title": "Neon Genesis Evangelion",
+   "originalTitle": "新世紀エヴァンゲリオン",
+   "year": 1995,
+   "posterPath": "/y2ah9t0navXyIvoHg1uIbIHO3tt.jpg"
+  },
+  {
+   "tmdbId": 234763,
+   "type": "show",
+   "rank": 95,
+   "title": "The Boy's Word: Blood on the Asphalt",
+   "originalTitle": "The Boy's Word :Blood on the Asphalt",
+   "year": 2023,
+   "posterPath": "/jAJJzSYo3tlWhDd43XP67ovSu1q.jpg"
+  },
+  {
+   "tmdbId": 80564,
+   "type": "show",
+   "rank": 96,
+   "title": "Banana Fish",
+   "originalTitle": "BANANA FISH",
+   "year": 2018,
+   "posterPath": "/d2TW5Rtd0uCasHlQygsDfWCROl2.jpg"
+  },
+  {
+   "tmdbId": 73488,
+   "type": "show",
+   "rank": 97,
+   "title": "Les Contes de la rue Broca",
+   "year": 1996,
+   "posterPath": "/mhuHrLGcWyqetfDjBkbebgw0mUI.jpg"
+  },
+  {
+   "tmdbId": 98214,
+   "type": "show",
+   "rank": 98,
+   "title": "Villainous",
+   "originalTitle": "Villanos",
+   "year": 2017,
+   "posterPath": "/uKtxJqOeB74Lm6ZNCyEqMaFlXbp.jpg"
+  },
+  {
+   "tmdbId": 9302,
+   "type": "show",
+   "rank": 99,
+   "title": "Digimon Tamers",
+   "originalTitle": "デジモンテイマーズ",
+   "year": 2001,
+   "posterPath": "/r8MYNECZkwprDATctOc8rDFQ8at.jpg"
+  },
+  {
+   "tmdbId": 124834,
+   "type": "show",
+   "rank": 100,
+   "title": "Heartstopper",
+   "year": 2022,
+   "posterPath": "/dQc0QbDiHjGmWxTfKtBgYtS4bj5.jpg"
+  },
+  {
+   "tmdbId": 45790,
+   "type": "show",
+   "rank": 101,
+   "title": "JoJo's Bizarre Adventure",
+   "originalTitle": "ジョジョの奇妙な冒険",
+   "year": 2012,
+   "posterPath": "/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg"
+  },
+  {
+   "tmdbId": 259909,
+   "type": "show",
+   "rank": 102,
+   "title": "Dexter: Resurrection",
+   "year": 2025,
+   "posterPath": "/o2Oyi3boT100bY5kCP4MBiTeetO.jpg"
+  },
+  {
+   "tmdbId": 126506,
+   "type": "show",
+   "rank": 103,
+   "title": "Smiling Friends",
+   "year": 2020,
+   "posterPath": "/q3CSxl3G06MBc73TpHWwBYYTPxL.jpg"
+  },
+  {
+   "tmdbId": 97186,
+   "type": "show",
+   "rank": 104,
+   "title": "Love, Victor",
+   "year": 2020,
+   "posterPath": "/pcT1vivabBnBk0tZgVBO1I8aK75.jpg"
+  },
+  {
+   "tmdbId": 66732,
+   "type": "show",
+   "rank": 105,
+   "title": "Stranger Things",
+   "year": 2016,
+   "posterPath": "/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg"
+  },
+  {
+   "tmdbId": 94954,
+   "type": "show",
+   "rank": 106,
+   "title": "Hazbin Hotel",
+   "year": 2024,
+   "posterPath": "/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg"
+  },
+  {
+   "tmdbId": 289219,
+   "type": "show",
+   "rank": 107,
+   "title": "Star Wars: Maul - Shadow Lord",
+   "year": 2026,
+   "posterPath": "/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg"
+  },
+  {
+   "tmdbId": 12313,
+   "type": "show",
+   "rank": 108,
+   "title": "Shadow Hunter",
+   "year": 2005,
+   "posterPath": "/hOTaiR2qRDZtHgR2Kwz7RcAVqA6.jpg"
+  },
+  {
+   "tmdbId": 94796,
+   "type": "show",
+   "rank": 109,
+   "title": "Crash Landing on You",
+   "originalTitle": "사랑의 불시착",
+   "year": 2019,
+   "posterPath": "/fgBNLPr6mC8pxuR79ENAJY4nBmj.jpg"
+  },
+  {
+   "tmdbId": 37606,
+   "type": "show",
+   "rank": 110,
+   "title": "The Amazing World of Gumball",
+   "year": 2011,
+   "posterPath": "/VYnnyA2hyxi3VUPgCA71mMtt69.jpg"
+  },
+  {
+   "tmdbId": 79744,
+   "type": "show",
+   "rank": 111,
+   "title": "The Rookie",
+   "year": 2018,
+   "posterPath": "/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg"
+  },
+  {
+   "tmdbId": 83880,
+   "type": "show",
+   "rank": 112,
+   "title": "Our Planet",
+   "year": 2019,
+   "posterPath": "/wRSnArnQBmeUYb5GWDU595bGsBr.jpg"
+  },
+  {
+   "tmdbId": 73223,
+   "type": "show",
+   "rank": 113,
+   "title": "Black Clover",
+   "originalTitle": "ブラッククローバー",
+   "year": 2017,
+   "posterPath": "/uZUtoVChBGhNj9OfrM2LYpwBm8E.jpg"
+  },
+  {
+   "tmdbId": 65844,
+   "type": "show",
+   "rank": 114,
+   "title": "KONOSUBA - God's blessing on this wonderful world!",
+   "originalTitle": "この素晴らしい世界に祝福を！",
+   "year": 2016,
+   "posterPath": "/oRaOeQlwktbGSd2T31FYAcgHZlh.jpg"
+  },
+  {
+   "tmdbId": 32118,
+   "type": "show",
+   "rank": 115,
+   "title": "Generator Rex",
+   "year": 2010,
+   "posterPath": "/3F93j1Yuu9wtPO06BlPSVbLdxaP.jpg"
+  },
+  {
+   "tmdbId": 9160,
+   "type": "show",
+   "rank": 116,
+   "title": "Candy Candy",
+   "originalTitle": "キャンディ・キャンディ",
+   "year": 1976,
+   "posterPath": "/uO9V1FkqLTJdAodHn9Sdg3Nwy1.jpg"
+  },
+  {
+   "tmdbId": 61222,
+   "type": "show",
+   "rank": 117,
+   "title": "BoJack Horseman",
+   "year": 2014,
+   "posterPath": "/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg"
+  },
+  {
+   "tmdbId": 76662,
+   "type": "show",
+   "rank": 118,
+   "title": "My Mister",
+   "originalTitle": "나의 아저씨",
+   "year": 2018,
+   "posterPath": "/gE9tZDycsA31wvtzUcDWVk6Nf7t.jpg"
+  },
+  {
+   "tmdbId": 86031,
+   "type": "show",
+   "rank": 119,
+   "title": "Dr. STONE",
+   "originalTitle": "Dr.STONE",
+   "year": 2019,
+   "posterPath": "/xbZQ3fDl0y5mt0ARwfeyrgQ4JTw.jpg"
+  },
+  {
+   "tmdbId": 31910,
+   "type": "show",
+   "rank": 120,
+   "title": "Naruto Shippūden",
+   "originalTitle": "ナルト 疾風伝",
+   "year": 2007,
+   "posterPath": "/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg"
+  },
+  {
+   "tmdbId": 83121,
+   "type": "show",
+   "rank": 121,
+   "title": "Kaguya-sama: Love Is War",
+   "originalTitle": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
+   "year": 2019,
+   "posterPath": "/5khbC6AuNgnvnoDbjIMKCOhEtIc.jpg"
+  },
+  {
+   "tmdbId": 60574,
+   "type": "show",
+   "rank": 122,
+   "title": "Peaky Blinders",
+   "year": 2013,
+   "posterPath": "/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
+  },
+  {
+   "tmdbId": 127529,
+   "type": "show",
+   "rank": 123,
+   "title": "Bloodhounds",
+   "originalTitle": "사냥개들",
+   "year": 2023,
+   "posterPath": "/uSQzD7TXsL96J5ggDrJFdUs8uXU.jpg"
+  },
+  {
+   "tmdbId": 229480,
+   "type": "show",
+   "rank": 124,
+   "title": "No Gain No Love",
+   "originalTitle": "손해 보기 싫어서",
+   "year": 2024,
+   "posterPath": "/ru3ZYJpzbmv2VpGsj1rmO5Hcpky.jpg"
+  },
+  {
+   "tmdbId": 28136,
+   "type": "show",
+   "rank": 125,
+   "title": "Rurouni Kenshin",
+   "originalTitle": "るろうに剣心 明治剣客浪漫譚",
+   "year": 1996,
+   "posterPath": "/lQ4p6OF9KjagTfs8otZt0VTe3Al.jpg"
+  },
+  {
+   "tmdbId": 240411,
+   "type": "show",
+   "rank": 126,
+   "title": "Dan Da Dan",
+   "originalTitle": "ダンダダン",
+   "year": 2024,
+   "posterPath": "/6qfZAOEUFIrbUH3JvePclx1nXzz.jpg"
+  },
+  {
+   "tmdbId": 210733,
+   "type": "show",
+   "rank": 127,
+   "title": "Hidden Love",
+   "originalTitle": "偷偷藏不住",
+   "year": 2023,
+   "posterPath": "/riGzESa9N9toumP9OhMmg0QvFPD.jpg"
+  },
+  {
+   "tmdbId": 88040,
+   "type": "show",
+   "rank": 128,
+   "title": "given",
+   "originalTitle": "ギヴン",
+   "year": 2019,
+   "posterPath": "/gO4ntuWf5hTUNA76onzA62GVoBf.jpg"
+  },
+  {
+   "tmdbId": 83100,
+   "type": "show",
+   "rank": 129,
+   "title": "Dororo",
+   "originalTitle": "どろろ",
+   "year": 2019,
+   "posterPath": "/mLSJO9lj2RMHdzHJMNMoksmwlbv.jpg"
+  },
+  {
+   "tmdbId": 117648,
+   "type": "show",
+   "rank": 130,
+   "title": "Clarkson's Farm",
+   "year": 2021,
+   "posterPath": "/toVhyqMT3ICfahE7Ad8obJvZHpX.jpg"
+  },
+  {
+   "tmdbId": 82739,
+   "type": "show",
+   "rank": 131,
+   "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+   "originalTitle": "青春ブタ野郎はバニーガール先輩の夢を見ない",
+   "year": 2018,
+   "posterPath": "/fbqDG7GjodvaNecgv1q8kfSNPl5.jpg"
+  },
+  {
+   "tmdbId": 6357,
+   "type": "show",
+   "rank": 132,
+   "title": "The Twilight Zone",
+   "year": 1959,
+   "posterPath": "/7uY4pCOxbEdv4M8jTE4uMPVoSIW.jpg"
+  },
+  {
+   "tmdbId": 30981,
+   "type": "show",
+   "rank": 133,
+   "title": "Monster",
+   "originalTitle": "MONSTER",
+   "year": 2004,
+   "posterPath": "/n5XNKXnoXpoXyfiCtXHOf8q8PFM.jpg"
+  },
+  {
+   "tmdbId": 35935,
+   "type": "show",
+   "rank": 134,
+   "title": "Berserk",
+   "originalTitle": "剣風伝奇ベルセルク",
+   "year": 1997,
+   "posterPath": "/xctRBSZzvoHDHz38ZZUGxRYetvG.jpg"
+  },
+  {
+   "tmdbId": 126485,
+   "type": "show",
+   "rank": 135,
+   "title": "Moving",
+   "originalTitle": "무빙",
+   "year": 2023,
+   "posterPath": "/vf9SNXNAFqzKBGksFwrXhkg9cb7.jpg"
+  },
+  {
+   "tmdbId": 58474,
+   "type": "show",
+   "rank": 136,
+   "title": "Cosmos",
+   "year": 2014,
+   "posterPath": "/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg"
+  },
+  {
+   "tmdbId": 108261,
+   "type": "show",
+   "rank": 137,
+   "title": "Mr. Queen",
+   "originalTitle": "철인왕후",
+   "year": 2020,
+   "posterPath": "/ozuyMnOO5pekDklyPpUL1Htkuzy.jpg"
+  },
+  {
+   "tmdbId": 88803,
+   "type": "show",
+   "rank": 138,
+   "title": "Vinland Saga",
+   "originalTitle": "ヴィンランド・サガ",
+   "year": 2019,
+   "posterPath": "/vUHlpA5c1NXkds59reY3HMb4Abs.jpg"
+  },
+  {
+   "tmdbId": 114410,
+   "type": "show",
+   "rank": 139,
+   "title": "Chainsaw Man",
+   "originalTitle": "チェンソーマン",
+   "year": 2022,
+   "posterPath": "/npdB6eFzizki0WaZ1OvKcJrWe97.jpg"
+  },
+  {
+   "tmdbId": 110070,
+   "type": "show",
+   "rank": 140,
+   "title": "Horimiya",
+   "originalTitle": "ホリミヤ",
+   "year": 2021,
+   "posterPath": "/iSOKGl5KIeOCAtigUDCfFZe2cOi.jpg"
+  },
+  {
+   "tmdbId": 76121,
+   "type": "show",
+   "rank": 141,
+   "title": "DARLING in the FRANXX",
+   "originalTitle": "ダーリン・イン・ザ・フランキス",
+   "year": 2018,
+   "posterPath": "/m6R8gI3brohD6izeVCXFmuGeV2m.jpg"
+  },
+  {
+   "tmdbId": 256721,
+   "type": "show",
+   "rank": 142,
+   "title": "Gachiakuta",
+   "originalTitle": "ガチアクタ",
+   "year": 2025,
+   "posterPath": "/jH78nLFrTU6aP7hY7KO6DZHFLoX.jpg"
+  },
+  {
+   "tmdbId": 105248,
+   "type": "show",
+   "rank": 143,
+   "title": "Cyberpunk: Edgerunners",
+   "year": 2022,
+   "posterPath": "/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg"
+  },
+  {
+   "tmdbId": 66433,
+   "type": "show",
+   "rank": 144,
+   "title": "Scarlet Heart: Ryeo",
+   "originalTitle": "달의 연인 - 보보경심 려",
+   "year": 2016,
+   "posterPath": "/sTW7wLyD95JRCyUEdTfxCWQWsvd.jpg"
+  },
+  {
+   "tmdbId": 15260,
+   "type": "show",
+   "rank": 145,
+   "title": "Adventure Time",
+   "year": 2010,
+   "posterPath": "/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg"
+  },
+  {
+   "tmdbId": 77721,
+   "type": "show",
+   "rank": 146,
+   "title": "Real Girl",
+   "originalTitle": "３Ｄ彼女　リアルガール",
+   "year": 2018,
+   "posterPath": "/3UmNynM1YXkYylyontGXPHncjOC.jpg"
+  },
+  {
+   "tmdbId": 75214,
+   "type": "show",
+   "rank": 147,
+   "title": "Violet Evergarden",
+   "originalTitle": "ヴァイオレット・エヴァーガーデン",
+   "year": 2018,
+   "posterPath": "/61EwFPqc0r1uJo6la49J55F8bQ8.jpg"
+  },
+  {
+   "tmdbId": 68129,
+   "type": "show",
+   "rank": 148,
+   "title": "Yuri!!! on Ice",
+   "originalTitle": "ユーリ!!! on ICE",
+   "year": 2016,
+   "posterPath": "/oxenakJNCj06JrWHENjvwaWGcSz.jpg"
+  },
+  {
+   "tmdbId": 221851,
+   "type": "show",
+   "rank": 149,
+   "title": "Marry My Husband",
+   "originalTitle": "내 남편과 결혼해줘",
+   "year": 2024,
+   "posterPath": "/899KcBqooj8nEyPcAEU3h7AdfUo.jpg"
+  },
+  {
+   "tmdbId": 56568,
+   "type": "show",
+   "rank": 150,
+   "title": "NANA",
+   "year": 2006,
+   "posterPath": "/egEROVWFVUupRhK03Bj5IVGAEGu.jpg"
+  },
+  {
+   "tmdbId": 19885,
+   "type": "show",
+   "rank": 151,
+   "title": "Sherlock",
+   "year": 2010,
+   "posterPath": "/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg"
+  },
+  {
+   "tmdbId": 96462,
+   "type": "show",
+   "rank": 152,
+   "title": "It's Okay to Not Be Okay",
+   "originalTitle": "사이코지만 괜찮아",
+   "year": 2020,
+   "posterPath": "/8XSJfLeImX8NszDUFnK1lbseCi8.jpg"
+  },
+  {
+   "tmdbId": 68349,
+   "type": "show",
+   "rank": 153,
+   "title": "Weightlifting Fairy Kim Bok-joo",
+   "originalTitle": "역도요정 김복주",
+   "year": 2016,
+   "posterPath": "/iLF6Jz6nL8uD8jKo6EvQ3XutDcR.jpg"
+  },
+  {
+   "tmdbId": 3793,
+   "type": "show",
+   "rank": 154,
+   "title": "Invader ZIM",
+   "year": 2001,
+   "posterPath": "/7ARG0kS9LD4Xp8eYJoHpbXcRiZp.jpg"
+  },
+  {
+   "tmdbId": 83639,
+   "type": "show",
+   "rank": 155,
+   "title": "Girl from Nowhere",
+   "originalTitle": "เด็กใหม่",
+   "year": 2018,
+   "posterPath": "/kb3O6BtHw4duUGbXBpPskuPTzd2.jpg"
+  },
+  {
+   "tmdbId": 117376,
+   "type": "show",
+   "rank": 156,
+   "title": "Vincenzo",
+   "originalTitle": "빈센조",
+   "year": 2021,
+   "posterPath": "/qbkSS1cTjT4DzIwD44bdhTuYgdT.jpg"
+  },
+  {
+   "tmdbId": 45950,
+   "type": "show",
+   "rank": 157,
+   "title": "High School DxD",
+   "originalTitle": "ハイスクールD×D",
+   "year": 2012,
+   "posterPath": "/5a9vaaLDAZTYjgfWIw7ZYhL1m1A.jpg"
+  },
+  {
+   "tmdbId": 225180,
+   "type": "show",
+   "rank": 158,
+   "title": "BLUE EYE SAMURAI",
+   "year": 2023,
+   "posterPath": "/fXm3JT4WLQVnwukdvghtAblc1wc.jpg"
+  },
+  {
+   "tmdbId": 90447,
+   "type": "show",
+   "rank": 159,
+   "title": "Hotel Del Luna",
+   "originalTitle": "호텔 델루나",
+   "year": 2019,
+   "posterPath": "/8bizZsXoAsOTbhyFKfBogC8mgG2.jpg"
+  },
+  {
+   "tmdbId": 125910,
+   "type": "show",
+   "rank": 160,
+   "title": "Young Royals",
+   "year": 2021,
+   "posterPath": "/qiSYSGYuF7sEwWmtISh1sWhnyBK.jpg"
+  },
+  {
+   "tmdbId": 215072,
+   "type": "show",
+   "rank": 161,
+   "title": "A Shop for Killers",
+   "originalTitle": "킬러들의 쇼핑몰",
+   "year": 2024,
+   "posterPath": "/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg"
+  },
+  {
+   "tmdbId": 120089,
+   "type": "show",
+   "rank": 162,
+   "title": "SPY x FAMILY",
+   "originalTitle": "SPY×FAMILY",
+   "year": 2022,
+   "posterPath": "/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg"
+  },
+  {
+   "tmdbId": 124364,
+   "type": "show",
+   "rank": 163,
+   "title": "FROM",
+   "year": 2022,
+   "posterPath": "/pRtJagIxpfODzzb0T0NAvZSzErC.jpg"
+  },
+  {
+   "tmdbId": 11466,
+   "type": "show",
+   "rank": 164,
+   "title": "Kaamelott",
+   "year": 2005,
+   "posterPath": "/d6P4O0LzE4WFp4GnSkzauUTmC2P.jpg"
+  },
+  {
+   "tmdbId": 79818,
+   "type": "show",
+   "rank": 165,
+   "title": "Meteor Garden",
+   "originalTitle": "流星花园",
+   "year": 2018,
+   "posterPath": "/8yhIaFcLHBPppaeY1iu9GzHtaqf.jpg"
+  },
+  {
+   "tmdbId": 108291,
+   "type": "show",
+   "rank": 166,
+   "title": "Snowdrop",
+   "originalTitle": "설강화 : snowdrop",
+   "year": 2021,
+   "posterPath": "/3AhTqNJVr1v7Jfplg8Y1YOzzdWE.jpg"
+  },
+  {
+   "tmdbId": 89901,
+   "type": "show",
+   "rank": 167,
+   "title": "Dickinson",
+   "year": 2019,
+   "posterPath": "/dDdcAfHBZ6Aalv53iR6o35CSLWA.jpg"
+  },
+  {
+   "tmdbId": 67075,
+   "type": "show",
+   "rank": 168,
+   "title": "Mob Psycho 100",
+   "originalTitle": "モブサイコ100",
+   "year": 2016,
+   "posterPath": "/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg"
+  },
+  {
+   "tmdbId": 106600,
+   "type": "show",
+   "rank": 169,
+   "title": "BTS In the SOOP",
+   "originalTitle": "In the SOOP BTS편",
+   "year": 2020,
+   "posterPath": "/gkB6mHtF7g95N5j35D3GNeR9vOh.jpg"
+  },
+  {
+   "tmdbId": 40143,
+   "type": "show",
+   "rank": 170,
+   "title": "Shaman King",
+   "originalTitle": "シャーマンキング",
+   "year": 2001,
+   "posterPath": "/35KDiG56R1CRqGsq2aVvasdSBdG.jpg"
+  },
+  {
+   "tmdbId": 92468,
+   "type": "show",
+   "rank": 171,
+   "title": "La Familia del Barrio",
+   "year": 2013,
+   "posterPath": "/vjsvZ2Tf4NAGuy7vv0r2RaAS5PC.jpg"
+  },
+  {
+   "tmdbId": 42444,
+   "type": "show",
+   "rank": 172,
+   "title": "Saint Seiya",
+   "originalTitle": "聖闘士星矢",
+   "year": 1986,
+   "posterPath": "/dhtiYYbob8saEUFWle3aWgVY28M.jpg"
+  },
+  {
+   "tmdbId": 30991,
+   "type": "show",
+   "rank": 173,
+   "title": "Cowboy Bebop",
+   "originalTitle": "カウボーイビバップ",
+   "year": 1998,
+   "posterPath": "/xDiXDfZwC6XYC6fxHI1jl3A3Ill.jpg"
+  },
+  {
+   "tmdbId": 204154,
+   "type": "show",
+   "rank": 174,
+   "title": "Scavengers Reign",
+   "year": 2023,
+   "posterPath": "/bFlVZV8TQbs8hcIY7PVYonYFMgK.jpg"
+  },
+  {
+   "tmdbId": 197067,
+   "type": "show",
+   "rank": 175,
+   "title": "Extraordinary Attorney Woo",
+   "originalTitle": "이상한 변호사 우영우",
+   "year": 2022,
+   "posterPath": "/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg"
+  },
+  {
+   "tmdbId": 67389,
+   "type": "show",
+   "rank": 176,
+   "title": "Golden Time",
+   "originalTitle": "ゴールデンタイム",
+   "year": 2013,
+   "posterPath": "/8HfxpBAOTNbWRemKwaLKNRjzaiy.jpg"
+  },
+  {
+   "tmdbId": 228878,
+   "type": "show",
+   "rank": 177,
+   "title": "Common Side Effects",
+   "year": 2025,
+   "posterPath": "/a8X5XXP49DHrySTXJMUIN5HI1Wz.jpg"
+  },
+  {
+   "tmdbId": 100049,
+   "type": "show",
+   "rank": 178,
+   "title": "TONIKAWA: Over the Moon for You",
+   "originalTitle": "トニカクカワイイ",
+   "year": 2020,
+   "posterPath": "/jJKTrIfZKoFV66HGMzSa4tkObK0.jpg"
+  },
+  {
+   "tmdbId": 30669,
+   "type": "show",
+   "rank": 179,
+   "title": "Yu Yu Hakusho",
+   "originalTitle": "幽☆遊☆白書",
+   "year": 1992,
+   "posterPath": "/5OnjguJwkujo3R23w95EEX8eAEN.jpg"
+  },
+  {
+   "tmdbId": 1399,
+   "type": "show",
+   "rank": 180,
+   "title": "Game of Thrones",
+   "year": 2011,
+   "posterPath": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg"
+  },
+  {
+   "tmdbId": 246246,
+   "type": "show",
+   "rank": 181,
+   "title": "Beauty in Black",
+   "year": 2024,
+   "posterPath": "/xKk4bFCCpZ9tvjUykvvMYLSBnjo.jpg"
+  },
+  {
+   "tmdbId": 154521,
+   "type": "show",
+   "rank": 182,
+   "title": "The Kardashians",
+   "year": 2022,
+   "posterPath": "/g1U84qP4B4Y51tU0El8Y6s30KE2.jpg"
+  },
+  {
+   "tmdbId": 154825,
+   "type": "show",
+   "rank": 183,
+   "title": "Business Proposal",
+   "originalTitle": "사내맞선",
+   "year": 2022,
+   "posterPath": "/iLh7L8ZuvgdxFaM9sImyv2iKYLe.jpg"
+  },
+  {
+   "tmdbId": 1600,
+   "type": "show",
+   "rank": 184,
+   "title": "Ned's Declassified School Survival Guide",
+   "year": 2004,
+   "posterPath": "/3kUXoJFmj6vOdmqMMoiYZj0eY2F.jpg"
+  },
+  {
+   "tmdbId": 96160,
+   "type": "show",
+   "rank": 185,
+   "title": "My Holo Love",
+   "originalTitle": "나 홀로 그대",
+   "year": 2020,
+   "posterPath": "/nLbKNyUKq6WMMoPuL712m43MVhc.jpg"
+  },
+  {
+   "tmdbId": 42509,
+   "type": "show",
+   "rank": 186,
+   "title": "Steins;Gate",
+   "year": 2011,
+   "posterPath": "/96R4bV7dB8ramaWceNKsxvJgCUd.jpg"
+  },
+  {
+   "tmdbId": 218539,
+   "type": "show",
+   "rank": 187,
+   "title": "My Demon",
+   "originalTitle": "마이데몬",
+   "year": 2023,
+   "posterPath": "/xBnscv5BrJREKVSvh0le61y4KDk.jpg"
+  },
+  {
+   "tmdbId": 2004,
+   "type": "show",
+   "rank": 188,
+   "title": "Malcolm in the Middle",
+   "year": 2000,
+   "posterPath": "/ckLLIsNy3Z0Go1PYHA2PHzVymUA.jpg"
+  },
+  {
+   "tmdbId": 79732,
+   "type": "show",
+   "rank": 189,
+   "title": "She-Ra and the Princesses of Power",
+   "year": 2018,
+   "posterPath": "/y6YLtlnV5FGh3Mhs5SUc80IQSV5.jpg"
+  },
+  {
+   "tmdbId": 65249,
+   "type": "show",
+   "rank": 190,
+   "title": "ERASED",
+   "originalTitle": "僕だけがいない街",
+   "year": 2016,
+   "posterPath": "/EljUwZJhpuYfVuSfqY8Pt1xxpH.jpg"
+  },
+  {
+   "tmdbId": 136283,
+   "type": "show",
+   "rank": 191,
+   "title": "The Glory",
+   "originalTitle": "더 글로리",
+   "year": 2022,
+   "posterPath": "/uUM4LVlPgIrww07OoEKrGWlS1Ej.jpg"
+  },
+  {
+   "tmdbId": 4194,
+   "type": "show",
+   "rank": 192,
+   "title": "Star Wars: The Clone Wars",
+   "year": 2008,
+   "posterPath": "/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg"
+  },
+  {
+   "tmdbId": 333,
+   "type": "show",
+   "rank": 193,
+   "title": "Jewel in the Palace",
+   "originalTitle": "대장금",
+   "year": 2003,
+   "posterPath": "/oiDr9sZPluqKJH8o0vuX5Dh61dh.jpg"
+  },
+  {
+   "tmdbId": 35894,
+   "type": "show",
+   "rank": 194,
+   "title": "Zatch Bell!",
+   "originalTitle": "金色のガッシュベル!!",
+   "year": 2003,
+   "posterPath": "/cBcHLTG8UgtKi1i1iN0XVcRAB78.jpg"
+  },
+  {
+   "tmdbId": 37585,
+   "type": "show",
+   "rank": 195,
+   "title": "Kenichi: The Mightiest Disciple",
+   "originalTitle": "史上最強の弟子ケンイチ",
+   "year": 2006,
+   "posterPath": "/xwpnnCCZErCfOBpWXy8y78cWfSt.jpg"
+  },
+  {
+   "tmdbId": 71712,
+   "type": "show",
+   "rank": 196,
+   "title": "The Good Doctor",
+   "year": 2017,
+   "posterPath": "/luhKkdD80qe62fwop6sdrXK9jUT.jpg"
+  },
+  {
+   "tmdbId": 83095,
+   "type": "show",
+   "rank": 197,
+   "title": "The Rising of the Shield Hero",
+   "originalTitle": "盾の勇者の成り上がり",
+   "year": 2019,
+   "posterPath": "/yjq2n0agGJfmZQ9NpbYIhuBofcq.jpg"
+  },
+  {
+   "tmdbId": 65648,
+   "type": "show",
+   "rank": 198,
+   "title": "Maid Sama!",
+   "originalTitle": "会長はメイド様！",
+   "year": 2010,
+   "posterPath": "/igkn0M1bgMeATz59LShvVxZNdVd.jpg"
+  },
+  {
+   "tmdbId": 68267,
+   "type": "show",
+   "rank": 199,
+   "title": "Trollhunters: Tales of Arcadia",
+   "year": 2016,
+   "posterPath": "/9VZmMzINVdO3ZYGsKItU39pNO2l.jpg"
+  },
+  {
+   "tmdbId": 75006,
+   "type": "show",
+   "rank": 200,
+   "title": "The Umbrella Academy",
+   "year": 2019,
+   "posterPath": "/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg"
+  }
+ ]
+}
