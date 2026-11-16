@@ -19,9 +19,9 @@ export default function Register() {
     }
     setBusy(true);
     try {
-      const { firstName, lastName, login, password } = form;
-      await api('/register', { method: 'POST', body: { firstName, lastName, login, password } });
-      navigate('/', { state: { registered: true, login: login.trim().toLowerCase() } });
+      const { login, password } = form;
+      await api('/users', { method: 'POST', body: { login: login.trim(), password } });
+      navigate('/', { state: { registered: true, login: login.trim() } });
     } catch (err) {
       setError(err.message);
       setBusy(false);
@@ -46,8 +46,8 @@ export default function Register() {
           </label>
         </div>
         <label>
-          Username
-          <input value={form.login} onChange={update('login')} autoComplete="username" required />
+          Username (3-30 characters)
+          <input value={form.login} onChange={update('login')} autoComplete="username" minLength={3} maxLength={30} required />
         </label>
         <label>
           Password (6+ characters)

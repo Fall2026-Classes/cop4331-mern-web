@@ -14,8 +14,8 @@ export default function Login() {
     e.preventDefault();
     setBusy(true);
     try {
-      const { token, user } = await api('/login', { method: 'POST', body: { login, password } });
-      saveLogin(token, user);
+      const user = await api('/auth/login', { method: 'POST', body: { login: login.trim(), password } });
+      saveLogin(user);
       navigate('/diary');
     } catch {
       // Any failure (wrong username, wrong password, server down) shows the same generic page.
